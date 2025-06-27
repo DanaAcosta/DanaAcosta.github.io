@@ -1,0 +1,150 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 1.21cm y: -6.96cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -1.42105263157895 7.23684210526316
+invisible, 
+
+4: Line, Const: 3, Val: 0 -1
+color:B, invisible, 
+
+5: Pt/, Const: 4, Val: -1.42105263157895 -2.59574468085106
+color:B, thick, CIRCLE, 
+"G"
+TP:  -1.29787234042553,  -2.42553191489362, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Pt/, Const: 4, Val: -1.42105263157895 -10.4893617021277
+color:B, thick, CIRCLE, 
+"C"
+TP:  -1.12765957446809,  -10.5531914893617, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: Perp, Const: 6,  4, 
+color:B, invisible, 
+
+8: Pt/, Const: 7, Val: -3.76315789473684 -10.4893617021277
+color:B, thick, CIRCLE, 
+"A"
+TP:  -3.70212765957447,  -10.5957446808511, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Line, Const: 8,  5, 
+color:B, invisible, 
+
+10: Pt, Val: -4.39473684210526 -15.2368421052632
+invisible, 
+
+11: Cir, Const: 10, Val: 8.41463571301964
+invisible, 
+
+13: Int, Const: 7,  11, int ind:0, 
+invisible, 
+
+14: Int, Const: 7,  11, int ind:0x10000, 
+invisible, 
+
+15: Par, Const: 10,  4, 
+color:B, invisible, 
+
+17: Int, Const: 15,  11, int ind:0, 
+invisible, 
+
+18: Arc, Const: 13,  17,  14, 
+color:B, thicker, 
+
+19: Pt/, Const: 18, Val: -8.83173003696861 -8.0870738872325
+color:B, 1x1, 
+"P"
+TP:  -8.87234042553191,  -8.1063829787234, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+20: Perp, Const: 19,  4, 
+color:B, invisible, 
+
+22: Int, Const: 9,  20, int ind:0, 
+color:B, 1x1, 
+"Q"
+TP:  -3.06382978723404,  -8.04255319148936, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+24: Int, Const: 4,  20, int ind:0, 
+color:B, 1x1, 
+"R"
+TP:  -1,  -8.02127659574468, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Compass, Const: 19 i: 0 22 i: 0 24 i: 0
+27: Ma R, F No1, 
+invisible, 
+
+28: Vec, Const: 22,  19, 
+color:B, invisible, 
+
+29: Tran, Const: 24,  28, 
+color:B, 1x1, 
+"P'"
+TP:  -7.17021276595745,  -8.04255319148936, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+30: Locus, Const: 19 29, lk pts, locus, nb pts: 50, 
+color:B, thicker, DS:5 8, 
+
+31: Refl, Const: 8,  4, 
+color:B, 1x1, 
+"A´"
+TP:  0.893617021276596,  -10.531914893617, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+32: Line, Const: 31,  5, 
+color:B, invisible, 
+
+34: Int, Const: 20,  32, int ind:0, 
+color:B, 1x1, invisible, 
+"S"
+TP:  0.340425531914894,  -7.78723404255319, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+35: Vec, Const: 34,  19, 
+invisible, 
+
+36: Tran, Const: 24,  35, 
+color:B, invisible, 
+"P"""
+TP:  -11.2553191489362,  -7.78723404255319, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+37: Locus, Const: 19 36, lk pts, locus, nb pts: 50, 
+color:Bl, thicker, invisible, 
+
+38: Seg, Const: 8,  5, 
+color:B, 
+
+39: Seg, Const: 5,  31, 
+color:B, 
+
+40: Seg, Const: 19,  24, 
+color:B, 
+
+41: Seg, Const: 6,  5, 
+color:B, 
+
+42: Seg, Const: 36,  19, 
+color:B, invisible, 
+
+43: Seg, Const: 24,  34, 
+color:B, invisible, 
+
+44: Button, ass.elmts: 37,  36,  42,  43,  34, Val: 453 137 0, nA, nP, 
+fill color:lGr, pushed, 
+"Ojo A´"
+TP:  9.63829787234043,  -2.91489361702128, TS:  5.25531914893617,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0
+

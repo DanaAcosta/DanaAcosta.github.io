@@ -1,0 +1,116 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 3.62cm y: -0.91cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -8.13157894736842 1
+color:B, invisible, 
+
+4: Cir, Const: 3, Val: 1.29327149508968
+color:B, 
+"E"
+TP:  -6.80851063829787,  0.340425531914894, TS:  0.787234042553192,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+5: Ray, Const: 3, Val: 11.5145576707727 4.12765957446809
+invisible, 
+
+6: Line, Const: 3, Val: 1 0
+invisible, 
+
+7: Refl, Const: 3,  6, 
+color:B, invisible, 
+
+8: Pt/, Const: 5, Val: -7.19023433056292 1.3374467549278
+invisible, 
+
+9: Refl, Const: 8,  6, 
+invisible, 
+
+10: Ray, Const: 7,  9, 
+invisible, 
+
+12: Int, Const: 5,  4, int ind:0x10000, 
+color:B, 
+"D"
+TP:  -6.93617021276596,  2.04255319148936, TS:  0.787234042553192,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+14: Int, Const: 6,  4, int ind:0x10000, 
+color:B, 
+
+16: Int, Const: 10,  4, int ind:0x10000, 
+color:B, 
+
+17: Arc, Const: 12,  14,  16, 
+color:B, thick, 
+
+18: Pt/, Const: 6, Val: 0.702127659574468 1
+color:B, thick, CIRCLE, 
+"B"
+TP:  1,  1.23404255319149, TS:  0.787234042553192,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+19: Perp, Const: 18,  6, 
+invisible, 
+
+21: Int, Const: 19,  10, int ind:0, 
+color:B, 
+"C"
+TP:  1.02127659574468,  -2.12765957446809, TS:  0.787234042553192,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+23: Int, Const: 19,  5, int ind:0, 
+color:B, 
+"A"
+TP:  0.914893617021277,  4.74468085106383, TS:  0.787234042553192,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+24: Seg, Const: 21,  23, 
+color:B, thick, 
+
+25: Seg, Const: 23,  12, 
+color:B, 
+
+26: Seg, Const: 23,  16, 
+color:B, 
+
+27: Seg, Const: 18,  12, 
+color:B, 
+
+28: Seg, Const: 18,  16, 
+color:B, 
+
+29: Seg, Const: 21,  12, 
+color:B, 
+
+30: Seg, Const: 21,  16, 
+color:B, 
+
+31: Pt/, Const: 24, Val: 0.702127659574468 2.87234042553191
+thick, CIRCLE, invisible, 
+"O"
+TP:  0.808510638297872,  2.97872340425532, TS:  1.70212765957447,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+32: Pt/, Const: 17, Val: -6.84157362594198 1.09185548814821
+invisible, 
+
+33: Seg, Const: 32,  31, 
+color:R, thicker, invisible, 
+
+34: Locus, Const: 32 33, unlk pts, locus, nb pts: 10, 
+invisible, 
+
+35: Button, ass.elmts: 34,  31, Val: 208 -163 0, nA, nP, 
+fill color:lGr, pushed, 
+"Todos los puntos en el segmento"
+TP:  4.42553191489362,  3.46808510638298, TS:  6.68085106382979,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+

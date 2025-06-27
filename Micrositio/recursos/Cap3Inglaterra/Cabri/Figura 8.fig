@@ -1,0 +1,85 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 6.81cm y: -3.62cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -11.8947368421053 -2.86842105263158
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -4.81578947368421 -2.86842105263158
+invisible, 
+
+6: Pt/, Const: 4, Val: 8.10526315789474 -2.86842105263158
+invisible, 
+
+7: Pt, Val: -3.78947368421053 0.342105263157895
+invisible, 
+
+8: Pt/, Const: 4, Val: 1.71052631578947 -2.86842105263158
+invisible, 
+
+9: Seg, Const: 5,  8, 
+color:B, thicker, 
+"C"
+TP:  0.0212765957446809,  -2.19148936170213, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Seg, Const: 8,  6, 
+color:B, thicker, 
+"A"
+TP:  3.12765957446809,  -2.97872340425532, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Seg, Const: 7,  8, 
+color:B, 
+"D"
+TP:  1.46808510638298,  -1.80851063829787, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Sym, Const: 7,  8, 
+invisible, 
+
+13: Seg, Const: 12,  8, 
+color:B, 
+"B"
+TP:  1.29787234042553,  -3.12765957446809, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+14: Refl, Const: 12,  4, 
+invisible, 
+
+15: Refl, Const: 8,  4, 
+invisible, 
+
+16: Seg, Const: 14,  15, 
+color:B, 
+"E"
+TP:  3.19148936170213,  -2.1063829787234, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+17: Seg, Const: 7,  12, 
+color:B, 
+"Rayo incidente"
+TP:  -5.4468085106383,  -0.51063829787234, TS:  4.21276595744681,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+18: Pt/, Const: 16, Val: 7.21052631578947 0.342105263157896
+invisible, 
+
+19: Seg, Const: 8,  18, 
+color:B, 
+
+20: Text, Val: 262 36 0, nA, nP, 
+"Rayo reflejado"
+TP:  5.57446808510638,  -0.765957446808511, TS:  3.65957446808511,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+

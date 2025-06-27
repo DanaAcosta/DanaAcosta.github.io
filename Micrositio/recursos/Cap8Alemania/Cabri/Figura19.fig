@@ -1,0 +1,101 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: -0.04cm y: 0.00cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -3.59574468085106 -0.0851063829787234
+color:B, 
+"O"
+TP:  -4.14893617021277,  0.574468085106383, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14, C: 40, Fa: 0, p: 1, System, S: 9, C: 40, Fa: 1
+
+4: Cir, Const: 3, Val: 4.6085322488246
+color:B, 
+
+5: Line, Const: 3, Val: 1 0
+color:lig, invisible, 
+
+6: Perp, Const: 3,  5, 
+color:lig, invisible, 
+
+8: Int, Const: 5,  4, int ind:0, 
+color:B, 
+"A'"
+TP:  -8.76595744680851,  0.446808510638298, TS:  0.914893617021277,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+9: Int, Const: 5,  4, int ind:0x10000, 
+color:B, 
+"A"
+TP:  1.12765957446809,  0.48936170212766, TS:  0.74468085106383,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+11: Int, Const: 6,  4, int ind:0, 
+color:B, 
+"B'"
+TP:  -4.02127659574468,  -4.74468085106383, TS:  0.914893617021277,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+12: Int, Const: 6,  4, int ind:0x10000, 
+color:B, 
+"B"
+TP:  -3.40425531914894,  5.04255319148936, TS:  0.74468085106383,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+13: Vec, Const: 3,  9, 
+color:B, thick, 
+
+14: Vec, Const: 3,  12, 
+color:B, thick, 
+
+15: Vec, Const: 3,  8, 
+color:B, thick, 
+
+16: Vec, Const: 3,  11, 
+color:B, thick, 
+
+17: Pt, Val: 2.78723404255319 6.29787234042553
+color:B, thick, CIRCLE, 
+"C"
+TP:  2.97872340425532,  6.40425531914894, TS:  0.638297872340426,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+18: Vec, Const: 3,  17, 
+color:B, thick, 
+
+19: Perp, Const: 17,  5, 
+color:lig, invisible, 
+
+20: Perp, Const: 17,  6, 
+color:lig, invisible, 
+
+22: Int, Const: 20,  6, int ind:0, 
+color:B, 
+"bB"
+TP:  -4.40425531914894,  6.40425531914894, TS:  0.74468085106383,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+24: Int, Const: 19,  5, int ind:0, 
+color:B, 
+"aA"
+TP:  2.65957446808511,  -0.0425531914893617, TS:  0.74468085106383,  0.574468085106383
+p: 0, Arial, S: 14 C: 40 Fa: 1
+
+25: Seg, Const: 17,  24, 
+color:B, DS:5 8, 
+
+26: Seg, Const: 22,  17, 
+color:B, DS:5 8, 
+
+27: Vec, Const: 3,  24, 
+color:B, 
+
+28: Vec, Const: 3,  22, 
+color:B, 
+

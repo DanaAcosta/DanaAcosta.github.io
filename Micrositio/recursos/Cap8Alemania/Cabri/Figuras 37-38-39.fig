@@ -1,0 +1,296 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 4.87cm y: 2.96cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -19.1702127659574 -1.85106382978723
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -5.51063829787234 -1.85106382978723
+color:B, thick, CIRCLE, 
+"L"
+TP:  -6.25531914893617,  -1.85106382978723, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Pt/, Const: 4, Val: 1.19148936170213 -1.85106382978723
+color:B, thick, CIRCLE, 
+"R"
+TP:  1.51063829787234,  -1.87234042553191, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: PBiss, Const: 5,  6, 
+color:B, invisible, 
+
+8: Pt, Val: -6.46808510638298 5.34042553191489
+color:B, thick, CIRCLE, 
+"A"
+TP:  -7.08510638297872,  5.74468085106383, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Pt, Val: 2.65957446808511 8.85106382978723
+color:B, thick, CIRCLE, 
+"B"
+TP:  2.8936170212766,  9.48936170212766, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: PBiss, Const: 5,  8, 
+invisible, 
+
+12: Int, Const: 7,  10, int ind:0, 
+invisible, 
+
+13: Cir, Const: 12,  8, 
+color:B, invisible, 
+
+15: Int, Const: 7,  13, int ind:0, 
+color:B, 1x1, invisible, 
+"Ojo cíclope (A)"
+TP:  -3.76595744680851,  -3.4468085106383, TS:  3.78723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+16: Int, Const: 7,  13, int ind:0x10000, 
+color:B, invisible, 
+"A' "
+TP:  -2.87234042553191,  8.02127659574468, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+17: Vec, Const: 15,  8, 
+color:B, thicker, invisible, 
+
+18: Vec, Const: 5,  8, 
+color:B, invisible, 
+
+19: Vec, Const: 5,  16, 
+color:B, invisible, 
+
+20: Vec, Const: 6,  8, 
+color:B, invisible, 
+
+21: Vec, Const: 6,  16, 
+color:B, invisible, 
+
+22: Angle, Const: 8,  5,  16, Val: 1 2.8
+invisible, 
+"a"
+TP:  -5.36170212765957,  1.46808510638298, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+23: Angle, Const: 8,  6,  16, Val: 1 2.9
+invisible, 
+"a"
+TP:  -1.21276595744681,  1.65957446808511, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+24: Button, ass.elmts: 18,  17,  22,  20,  13,  23,  15,  19,  16,  21,  82,  86,  80, Val: 569 -307 0, nA, nP, 
+fill color:lGr, pushed, 
+"Lineas visuales A"
+TP:  12.1063829787234,  6.53191489361702, TS:  6.51063829787234,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 17, System, S: 9, C: 40, Fa: 1
+
+25: PBiss, Const: 9,  6, 
+invisible, 
+
+27: Int, Const: 7,  25, int ind:0, 
+invisible, 
+
+28: Cir, Const: 27,  9, 
+color:B, invisible, 
+
+30: Int, Const: 7,  28, int ind:0, 
+color:B, 1x1, invisible, 
+"Ojo cíclope (B)"
+TP:  -3.80851063829787,  -3.02127659574468, TS:  3.8936170212766,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+31: Int, Const: 7,  28, int ind:0x10000, 
+color:B, invisible, 
+"B' "
+TP:  -1.85106382978723,  11.4255319148936, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+32: Vec, Const: 5,  31, 
+color:B, invisible, 
+
+33: Vec, Const: 6,  31, 
+color:B, invisible, 
+
+34: Vec, Const: 5,  9, 
+color:B, thicker, invisible, 
+
+35: Vec, Const: 6,  9, 
+color:B, thicker, invisible, 
+
+36: Vec, Const: 30,  31, 
+color:B, thicker, invisible, 
+
+37: Vec, Const: 30,  9, 
+color:B, thicker, invisible, 
+
+38: Angle, Const: 31,  5,  9, Val: -1 2.8
+invisible, 
+"b"
+TP:  -4.06382978723404,  2.1063829787234, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+39: Angle, Const: 31,  6,  9, Val: -1 2.3
+invisible, 
+"b"
+TP:  0.851063829787234,  1.95744680851064, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+40: Angle, Const: 31,  30,  9, Val: -1 2.6
+invisible, 
+"b"
+TP:  -1.63829787234043,  1.29787234042553, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+41: Button, ass.elmts: 36,  31,  33,  34,  37,  35,  32,  38,  40,  39,  28,  30,  81, Val: 569 -249 0, nA, nP, 
+fill color:lGr, pushed, 
+"Líneas visuales B"
+TP:  12.1063829787234,  5.29787234042553, TS:  6.68085106382979,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 17, System, S: 9, C: 40, Fa: 1
+
+42: Par, Const: 5,  7, 
+invisible, 
+
+43: Par, Const: 6,  7, 
+invisible, 
+
+44: Pt/, Const: 42, Val: -5.51063829787234 -3.21276595744681
+invisible, 
+
+45: Par, Const: 44,  4, 
+invisible, 
+
+47: Int, Const: 45,  43, int ind:0, 
+invisible, 
+
+48: Cir, Const: 44, Val: 1.72984895788813
+color:B, invisible, 
+
+49: Pt/, Const: 48, Val: -6.51287618863321 -1.8028380772239
+invisible, 
+
+Ma: Compass, Const: 44 i: 0 49 i: 0 47 i: 0
+52: Ma R, F No1, 
+color:B, invisible, 
+
+53: Line, Const: 31,  5, 
+invisible, 
+
+54: Line, Const: 31,  6, 
+invisible, 
+
+55: Line, Const: 9,  5, 
+invisible, 
+
+56: Line, Const: 9,  6, 
+invisible, 
+
+58: Int, Const: 55,  48, int ind:0x10000, 
+color:B, invisible, 
+
+59: Seg, Const: 5,  58, 
+color:B, invisible, 
+
+61: Int, Const: 53,  48, int ind:0x10000, 
+color:B, invisible, 
+
+62: Seg, Const: 5,  61, 
+color:B, invisible, 
+
+64: Int, Const: 54,  52, int ind:0x10000, 
+color:B, invisible, 
+
+65: Seg, Const: 6,  64, 
+color:B, invisible, 
+
+67: Int, Const: 56,  52, int ind:0x10000, 
+color:B, invisible, 
+
+68: Seg, Const: 6,  67, 
+color:B, invisible, 
+
+69: Seg, Const: 5,  6, 
+color:B, DS:5 8, 
+
+70: Button, ass.elmts: 48,  59,  58,  61,  62,  52,  68,  67,  65,  64, Val: 565 -116 0, nA, nP, 
+fill color:lGr, pushed, 
+"Ojos"
+TP:  12.0212765957447,  2.46808510638298, TS:  6.74468085106383,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 4, System, S: 9, C: 40, Fa: 1
+
+71: Pt/, Const: 7, Val: -2.15957446808511 6.78723404255319
+color:B, thick, CIRCLE, invisible, 
+
+72: Vec, Const: 5,  71, 
+color:B, invisible, 
+
+73: Vec, Const: 6,  71, 
+color:B, invisible, 
+
+74: Button, ass.elmts: 71,  72,  73, Val: 560 -68 0, nA, nP, 
+fill color:lGr, pushed, 
+"Punto libre sobre mediatriz"
+TP:  11.9148936170213,  1.4468085106383, TS:  6.8936170212766,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 27, System, S: 9, C: 40, Fa: 1
+
+75: Pt/, Const: 28, Val: 1.39004893778475 9.85477612843815
+color:B, thick, CIRCLE, invisible, 
+
+76: Vec, Const: 5,  75, 
+color:B, invisible, 
+
+77: Vec, Const: 6,  75, 
+color:B, invisible, 
+
+78: Vec, Const: 30,  75, 
+color:B, thicker, invisible, 
+
+79: Button, ass.elmts: 76,  75,  78,  77, Val: 557 -28 0, nA, nP, 
+fill color:lGr, pushed, 
+"Punto libre sobre horóptero b"
+TP:  11.8510638297872,  0.595744680851064, TS:  7.04255319148936,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 29, System, S: 9, C: 40, Fa: 1
+
+80: Ray, Const: 15,  16, 
+color:B, DS:5 8, invisible, 
+
+81: Ray, Const: 30,  31, 
+color:B, DS:5 8, invisible, 
+
+82: Angle, Const: 8,  15,  16, Val: 1 2
+invisible, 
+"a"
+TP:  -2.91489361702128,  -0.170212765957447, TS:  0.659574468085106,  0.595744680851064
+p: 0, Symbol, S: 14, C: 40, Fa: 0, p: 1, System, S: 9, C: 40, Fa: 1
+
+83: Button, ass.elmts: 19,  16,  32,  21,  33,  31,  28,  36,  81,  30,  84,  85, Val: 563 -202 0, nA, nP, 
+fill color:lGr, pushed, 
+"Transición A' B'"
+TP:  11.9787234042553,  4.29787234042553, TS:  6.85106382978723,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0, p: 16, System, S: 9, C: 40, Fa: 1
+
+84: Angle, Const: 31,  5,  16, Val: -1 4.3
+invisible, 
+"g"
+TP:  -3.97872340425532,  3.78723404255319, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+85: Angle, Const: 16,  6,  31, Val: -1 4
+invisible, 
+"g"
+TP:  -0.574468085106383,  3.65957446808511, TS:  0.808510638297872,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+86: Vec, Const: 15,  16, 
+color:B, thicker, invisible, 
+

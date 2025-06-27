@@ -1,0 +1,179 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 6.81cm y: -3.62cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -10.2631578947368 -5.44736842105263
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -5.53191489361702 -5.44736842105263
+color:B, 
+
+6: Perp, Const: 5,  4, 
+invisible, 
+
+7: Pt/, Const: 4, Val: 3.65789473684211 -5.44736842105263
+color:B, 
+
+8: Perp, Const: 7,  4, 
+invisible, 
+
+9: Pt/, Const: 6, Val: -5.53191489361702 4.26315789473684
+color:B, 
+
+10: Perp, Const: 9,  6, 
+invisible, 
+
+12: Int, Const: 8,  10, int ind:0, 
+color:B, 
+
+13: Pol, Const: 5,  9,  12,  7, 
+color:B, thicker, 
+
+14: Pt/, Const: 6, Val: -5.53191489361702 3.42105263157895
+invisible, 
+
+15: Sym, Const: 9,  14, 
+invisible, 
+
+16: Sym, Const: 14,  15, 
+invisible, 
+
+17: Sym, Const: 15,  16, 
+invisible, 
+
+18: Sym, Const: 16,  17, 
+invisible, 
+
+19: Sym, Const: 17,  18, 
+invisible, 
+
+20: Line, Const: 19,  12, 
+invisible, 
+
+21: Par, Const: 18,  20, 
+invisible, 
+
+22: Par, Const: 17,  21, 
+invisible, 
+
+23: Par, Const: 16,  22, 
+invisible, 
+
+24: Par, Const: 15,  23, 
+invisible, 
+
+25: Par, Const: 14,  24, 
+invisible, 
+
+27: Int, Const: 10,  25, int ind:0, 
+color:B, 
+
+29: Int, Const: 10,  24, int ind:0, 
+color:B, 
+"Receptor"
+TP:  -2.29787234042553,  5.1063829787234, TS:  3.34042553191489,  0.74468085106383
+p: 0, Arial, S: 18 C: 40 Fa: 0
+
+31: Int, Const: 10,  23, int ind:0, 
+color:B, 
+
+33: Int, Const: 10,  22, int ind:0, 
+color:B, 
+
+35: Int, Const: 10,  21, int ind:0, 
+color:B, 
+
+36: Seg, Const: 5,  27, 
+color:B, 
+
+37: Seg, Const: 5,  29, 
+color:B, 
+
+38: Seg, Const: 5,  31, 
+color:B, 
+
+39: Seg, Const: 5,  33, 
+color:B, 
+
+40: Seg, Const: 5,  35, 
+color:B, 
+
+41: Seg, Const: 7,  9, 
+color:B, 
+
+42: Seg, Const: 5,  12, 
+color:B, 
+
+43: Seg, Const: 7,  27, 
+color:B, 
+
+44: Seg, Const: 29,  7, 
+color:B, 
+
+45: Seg, Const: 7,  31, 
+color:B, 
+
+46: Seg, Const: 33,  7, 
+color:B, 
+
+47: Seg, Const: 7,  35, 
+color:B, 
+
+48: Pt/, Const: 13, Val: -0.964198864276389 -5.44736842105263
+color:B, 
+"Agente"
+TP:  -2,  -5.63829787234043, TS:  3.36170212765957,  0.74468085106383
+p: 0, Arial, S: 18 C: 40 Fa: 0
+
+49: Pt/, Const: 13, Val: -0.446808510638298 -5.44736842105263
+thick, CIRCLE, invisible, 
+
+50: Seg, Const: 9,  12, 
+color:B, 
+
+51: Pt/, Const: 50, Val: -4.51063829787234 4.26315789473684
+invisible, 
+
+52: Seg, Const: 49,  51, 
+color:R, invisible, 
+
+53: Locus, Const: 51 52, unlk pts, locus, nb pts: 50, 
+invisible, 
+
+54: Button, ass.elmts: 53,  49, Val: 213 -130 0, nA, nP, 
+fill color:lGr, pushed, 
+"Pirámides de emisión"
+TP:  4.53191489361702,  2.76595744680851, TS:  5.97872340425532,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0
+
+55: Seg, Const: 5,  7, 
+color:B, 
+
+56: Pt/, Const: 55, Val: -1.82978723404255 -5.44736842105263
+invisible, 
+
+57: Pt/, Const: 13, Val: -2.76595744680851 4.26315789473684
+thick, CIRCLE, invisible, 
+
+58: Seg, Const: 57,  56, 
+color:Bl, invisible, 
+
+59: Locus, Const: 56 58, unlk pts, locus, nb pts: 50, 
+color:Bl, invisible, 
+
+60: Button, ass.elmts: 57,  59, Val: 213 -90 0, nA, nP, 
+fill color:lGr, pushed, 
+"Pirámides de recepción"
+TP:  4.53191489361702,  1.91489361702128, TS:  6.08510638297872,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0
+

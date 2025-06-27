@@ -1,0 +1,323 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 6.81cm y: -3.62cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -10.8421052631579 -4.65789473684211
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -5.26315789473684 -4.65789473684211
+invisible, 
+
+6: Perp, Const: 5,  4, 
+invisible, 
+
+7: Pt/, Const: 4, Val: 8.23684210526316 -4.65789473684211
+invisible, 
+
+8: Perp, Const: 7,  4, 
+invisible, 
+
+9: Pt/, Const: 6, Val: -5.26315789473684 3
+invisible, 
+
+10: Perp, Const: 9,  6, 
+invisible, 
+
+12: Int, Const: 8,  10, int ind:0, 
+invisible, 
+
+13: Pol, Const: 9,  5,  7,  12, 
+color:B, thicker, 
+
+14: Pt/, Const: 4, Val: 1.39473684210526 -4.65789473684211
+invisible, 
+
+15: Perp, Const: 14,  4, 
+invisible, 
+
+17: Int, Const: 10,  15, int ind:0, 
+invisible, 
+
+18: Pt/, Const: 4, Val: 1.68421052631579 -4.65789473684211
+invisible, 
+
+19: Perp, Const: 18,  4, 
+invisible, 
+
+21: Int, Const: 10,  19, int ind:0, 
+invisible, 
+
+22: Mid, Const: 17,  14, 
+invisible, 
+
+23: Cir, Const: 22, Val: 0.133644994286067
+invisible, 
+
+25: Int, Const: 15,  23, int ind:0x10000, 
+invisible, 
+
+26: Int, Const: 15,  23, int ind:0, 
+invisible, 
+
+27: Perp, Const: 25,  15, 
+invisible, 
+
+28: Perp, Const: 26,  15, 
+invisible, 
+
+30: Int, Const: 19,  28, int ind:0, 
+invisible, 
+
+32: Int, Const: 19,  27, int ind:0, 
+invisible, 
+
+33: Pol, Const: 17,  25,  32,  21, 
+color:B, thicker, 
+
+34: Pol, Const: 26,  14,  18,  30, 
+color:B, thicker, 
+
+35: Perp, Const: 22,  33, side:0, 
+invisible, 
+
+37: Int, Const: 35,  19, int ind:0, 
+color:B, thick, 
+
+38: Pt/, Const: 35, Val: -4.94736842105263 -0.828947368421055
+color:B, thick, 
+
+39: Mid, Const: 38,  22, 
+invisible, 
+
+40: Mid, Const: 38,  39, 
+invisible, 
+
+41: Mid, Const: 39,  22, 
+invisible, 
+
+42: Cir, Const: 38,  40, 
+invisible, 
+
+43: Cir, Const: 38,  39, 
+invisible, 
+
+44: Cir, Const: 38,  41, 
+invisible, 
+
+45: Cir, Const: 38,  22, 
+invisible, 
+
+Ma: Compass, Const: 38 i: 0 40 i: 0 37 i: 0
+48: Ma R, F No1, 
+invisible, 
+
+Ma: Compass, Const: 38 i: 0 39 i: 0 37 i: 0
+51: Ma R, F No1, 
+invisible, 
+
+Ma: Compass, Const: 38 i: 0 41 i: 0 37 i: 0
+54: Ma R, F No1, 
+invisible, 
+
+Ma: Compass, Const: 38 i: 0 22 i: 0 37 i: 0
+57: Ma R, F No1, 
+invisible, 
+
+59: Int, Const: 13,  42, int ind:0, 
+invisible, 
+
+60: Int, Const: 13,  42, int ind:0x10000, 
+invisible, 
+
+62: Int, Const: 13,  43, int ind:0, 
+invisible, 
+
+63: Int, Const: 13,  43, int ind:0x10000, 
+invisible, 
+
+65: Int, Const: 13,  44, int ind:0x1, 
+invisible, 
+
+66: Int, Const: 13,  44, int ind:0x10003, 
+invisible, 
+
+68: Int, Const: 13,  45, int ind:0x1, 
+invisible, 
+
+69: Int, Const: 13,  45, int ind:0x10003, 
+invisible, 
+
+70: Arc, Const: 59,  40,  60, 
+color:B, 
+
+71: Arc, Const: 62,  39,  63, 
+color:B, 
+
+72: Arc, Const: 65,  41,  66, 
+color:B, 
+
+73: Arc, Const: 68,  22,  69, 
+color:B, 
+
+75: Int, Const: 34,  48, int ind:0x10002, 
+invisible, 
+
+77: Int, Const: 33,  48, int ind:0x2, 
+invisible, 
+
+79: Int, Const: 34,  51, int ind:0x10002, 
+invisible, 
+
+81: Int, Const: 33,  51, int ind:0x2, 
+invisible, 
+
+83: Int, Const: 13,  54, int ind:0x10003, 
+invisible, 
+
+84: Int, Const: 13,  54, int ind:0x1, 
+invisible, 
+
+86: Int, Const: 13,  57, int ind:0x10003, 
+invisible, 
+
+87: Int, Const: 13,  57, int ind:0x1, 
+invisible, 
+
+89: Int, Const: 35,  57, int ind:0x10000, 
+invisible, 
+
+91: Int, Const: 35,  54, int ind:0x10000, 
+invisible, 
+
+93: Int, Const: 35,  51, int ind:0x10000, 
+invisible, 
+
+95: Int, Const: 35,  48, int ind:0x10000, 
+invisible, 
+
+96: Arc, Const: 75,  95,  77, 
+color:B, 
+
+97: Arc, Const: 79,  93,  81, 
+color:B, 
+
+98: Arc, Const: 84,  91,  83, 
+color:B, 
+
+99: Arc, Const: 87,  89,  86, 
+color:B, 
+
+100: Vec, Const: 38,  22, 
+color:B, 
+
+101: Vec, Const: 38,  66, 
+color:B, 
+
+102: Vec, Const: 38,  69, 
+color:B, 
+
+103: Vec, Const: 38,  65, 
+color:B, 
+
+104: Vec, Const: 38,  68, 
+color:B, 
+
+105: Pt/, Const: 13, Val: 4.42105263157895 3
+1x1, invisible, 
+
+106: Vec, Const: 37,  105, 
+color:B, 
+
+107: Vec, Const: 37,  89, 
+color:B, 
+
+108: Vec, Const: 37,  86, 
+color:B, 
+
+109: Vec, Const: 37,  84, 
+color:B, 
+
+110: Vec, Const: 37,  87, 
+color:B, 
+
+111: Refl, Const: 66,  102, 
+1x1, 
+
+112: Vec, Const: 38,  111, 
+color:B, invisible, 
+
+113: Refl, Const: 65,  104, 
+1x1, 
+
+114: Vec, Const: 38,  113, 
+color:B, invisible, 
+
+115: Refl, Const: 84,  110, 
+1x1, 
+
+116: Vec, Const: 37,  115, 
+color:B, invisible, 
+
+117: Refl, Const: 105,  108, 
+1x1, 
+
+118: Vec, Const: 37,  117, 
+color:B, invisible, 
+
+120: Int, Const: 112,  72, int ind:0, 
+invisible, 
+
+121: Ray, Const: 38,  120, 
+invisible, 
+
+123: Int, Const: 114,  72, int ind:0, 
+invisible, 
+
+124: Ray, Const: 38,  123, 
+invisible, 
+
+126: Int, Const: 116,  98, int ind:0, 
+invisible, 
+
+127: Ray, Const: 37,  126, 
+invisible, 
+
+128: Pt/, Const: 98, Val: 6.15922760130567 0.783276394304646
+invisible, 
+
+129: Ray, Const: 37,  128, 
+invisible, 
+
+131: Int, Const: 121,  73, int ind:0x10000, 
+invisible, 
+
+133: Int, Const: 124,  73, int ind:0x10000, 
+invisible, 
+
+135: Int, Const: 127,  99, int ind:0x10000, 
+invisible, 
+
+137: Int, Const: 129,  99, int ind:0x10000, 
+invisible, 
+
+138: Vec, Const: 38,  131, 
+color:B, 
+
+139: Vec, Const: 38,  133, 
+color:B, 
+
+140: Vec, Const: 37,  137, 
+color:B, 
+
+141: Vec, Const: 37,  135, 
+color:B, 
+

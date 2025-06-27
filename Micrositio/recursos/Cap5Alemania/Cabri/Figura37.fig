@@ -1,0 +1,182 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 0.00cm y: 1.91cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: 1.40425531914894 0.680851063829787
+color:B, 1x1, 
+"A"
+TP:  1.51063829787234,  0.787234042553192, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+4: Cir, Const: 3, Val: 4.36896126603769
+color:B, 
+
+5: Line, Const: 3, Val: -1 0
+color:lig, invisible, 
+
+7: Int, Const: 5,  4, int ind:0x10000, 
+color:B, 1x1, 
+"B"
+TP:  -3.4468085106383,  1.31914893617021, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Perp, Const: 7,  5, 
+color:lig, invisible, 
+
+9: Cir, Const: 7, Val: 1.47945544897498
+invisible, 
+
+11: Int, Const: 5,  9, int ind:0x10000, 
+invisible, 
+
+13: Int, Const: 8,  9, int ind:0x10000, 
+invisible, 
+
+14: Mid, Const: 11,  13, 
+invisible, 
+
+15: Ray, Const: 7,  14, 
+color:lig, invisible, 
+
+17: Int, Const: 15,  9, int ind:0, 
+
+18: Int, Const: 15,  9, int ind:0x10000, 
+invisible, 
+
+19: Arc, Const: 11,  18,  13, 
+color:B, invisible, 
+
+20: Pt/, Const: 19, Val: -4.22073685130222 -0.100925625935281
+color:B, thick, CIRCLE, 
+
+21: Ray, Const: 7,  20, 
+color:B, thicker, 
+
+22: Angle, Const: 11,  7,  20, Val: 1 7
+"i1"
+TP:  -4.95744680851064,  0.51063829787234, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+23: AngVal, Const: 22, Val: -232 -18 0.556741, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+24: Text, Const: 22, inc.elmts: 23, Val: 413 -398 1, A, nP, 
+invisible, 
+""#"
+TP:  8.78723404255319,  8.46808510638298, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+25: Text, inc.elmts: 23, Val: 479 -34 0, nA, nP, 
+"i1: "#"
+TP:  10.1914893617021,  0.723404255319149, TS:  2.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+26: Num, Val: 649 -214 1.33, A, nP, 
+NbD:2, nFD, WU, 
+1.33
+TP:  13.8085106382979,  4.5531914893617, TS:  0.829787234042553,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+27: Text, inc.elmts: 26, Val: 627 -32 0, nA, nP, 
+"n21: "#"
+TP:  13.3404255319149,  0.680851063829787, TS:  2.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+28: Formula, Const: 23,  26, Val: 630 -114 0.408583, A, P, 
+NbD:2, nFD, deg, 
+arcsin((sin(a)/b))
+TP:  13.4042553191489,  2.42553191489362, TS:  1.36170212765957,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+29: Text, inc.elmts: 28, Val: 481 5 0, nA, nP, 
+"r1: "#"
+TP:  10.2340425531915,  -0.106382978723404, TS:  2,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+30: Int, Const: 5,  9, int ind:0, 
+invisible, 
+
+31: Rot, Const: 30,  7,  28, 
+invisible, 
+
+32: Ray, Const: 7,  31, 
+color:B, invisible, 
+
+34: Int, Const: 32,  4, int ind:0x10000, 
+color:B, 1x1, 
+"C"
+TP:  4.12765957446809,  4.68085106382979, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+35: Seg, Const: 7,  34, 
+color:B, thicker, 
+
+36: Angle, Const: 30,  7,  31, Val: 1 8.1
+"r1"
+TP:  -0.957446808510638,  1.4468085106383, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+37: Angle, Const: 3,  34,  31, Val: -1 2.5
+"i2"
+TP:  2.8936170212766,  3.17021276595745, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Compass, Const: 7 i: 0 30 i: 0 34 i: 0
+40: Ma R, F No1, 
+invisible, 
+
+41: Ray, Const: 3,  34, 
+color:lig, invisible, 
+
+42: Sym, Const: 3,  34, 
+invisible, 
+
+43: Ray, Const: 34,  42, 
+color:lig, invisible, 
+
+45: Int, Const: 43,  40, int ind:0, 
+thick, CIRCLE, 
+
+46: Int, Const: 43,  40, int ind:0x10000, 
+invisible, 
+
+48: Int, Const: 4,  40, int ind:0, 
+invisible, 
+
+49: Int, Const: 4,  40, int ind:0x10000, 
+invisible, 
+
+50: Arc, Const: 49,  46,  48, 
+color:B, invisible, 
+
+51: Rot, Const: 46,  34,  23, 
+invisible, 
+
+52: Refl, Const: 51,  43, 
+invisible, 
+
+53: Ray, Const: 34,  52, 
+color:B, thicker, 
+
+54: Sym, Const: 3,  7, 
+invisible, 
+
+55: Seg, Const: 54,  3, 
+color:B, DS:5 8, 
+
+56: Seg, Const: 3,  42, 
+color:B, DS:5 8, 
+
+57: Angle, Const: 52,  34,  46, Val: 1 5.4
+"r2"
+TP:  5.46808510638298,  5, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+

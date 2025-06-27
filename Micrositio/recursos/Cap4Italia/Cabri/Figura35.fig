@@ -1,0 +1,249 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Used macro
+
+Degradacion Piero, no name
+Help:
+"(i) Puntos de la linea de base; (ii) Convergencia de ortogonales; (iii) Punto de distancia (convergencia de diagonales); (iv) Punto problema P"
+Mth: 0
+CN:5, ON:12, FN:1, PO:11
+CT:
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+Const:
+Line, Mth:1, 0, CN:2, VN:4, Const: 1 2
+Perp, Mth:0, 0, CN:2, VN:4, Const: 5 6
+Int, Mth:0, 0, CN:2, VN:1, int ind:0, Const: 7 6
+Cir, Mth:1, 0, CN:2, VN:2, Const: 8 5
+Sym, Mth:0, 0, CN:2, VN:1, Const: 4 3
+Vec, Mth:0, 0, CN:2, VN:2, Const: 3 8
+Tran, Mth:0, 0, CN:2, VN:1, Const: 10 11
+Ray, Mth:1, 0, CN:2, VN:3, Const: 8 12
+Int, Mth:0, 0, CN:2, VN:1, int ind:0x10000, Const: 13 9
+Line, Mth:1, 0, CN:2, VN:4, Const: 8 3
+Line, Mth:1, 0, CN:2, VN:4, Const: 14 4
+Int, Mth:0, 1, CN:2, VN:1, int ind:0, Const: 16 15, default settings, 
+
+Figure description:
+
+Window center x: 2.49cm y: -2.30cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -0.578947368421053 -4.13157894736842
+color:B, invisible, 
+
+4: Pt, Val: -13.0263157894737 -0.552631578947368
+invisible, 
+
+5: Line, Const: 4, Val: 1 0
+color:B, invisible, 
+
+6: Pt, Val: -0.531914893617021 4.63829787234043
+color:B, thick, CIRCLE, 
+"A"
+TP:  -0.340425531914894,  4.85106382978723, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: Par, Const: 6,  5, 
+color:B, invisible, 
+
+8: Pt/, Const: 7, Val: -5.74468085106383 4.63829787234043
+color:B, thick, CIRCLE, 
+"O1"
+TP:  -6.57446808510638,  4.80851063829787, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Pt/, Const: 5, Val: -5.34042553191489 -0.552631578947368
+color:B, 1x1, sticky, 
+"B"
+TP:  -5.36170212765957,  -0.574468085106383, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Pt/, Const: 5, Val: 4.04255319148936 -0.552631578947368
+color:B, 1x1, sticky, 
+"C"
+TP:  3.97872340425532,  -0.595744680851064, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Seg, Const: 8,  6, 
+color:B, 
+
+12: Seg, Const: 9,  10, 
+color:B, 
+
+13: Cir, Const: 3, Val: 2.24886294546283
+invisible, 
+
+14: Pt/, Const: 13, Val: 1.49494779841013 -3.26189890018439
+color:B, thick, CIRCLE, 
+"W"
+TP:  1.65957446808511,  -2.91489361702128, TS:  1,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 14 i: 0
+29: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"W´"
+TP:  0.957446808510638,  1.36170212765957, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+30: Line, Const: 14,  3, 
+invisible, 
+
+31: Perp, Const: 3,  30, 
+invisible, 
+
+32: Cir, Const: 3,  14, 
+color:B, invisible, 
+
+34: Int, Const: 31,  32, int ind:0x10000, 
+color:B, 1x1, 
+"U"
+TP:  0.51063829787234,  -6.12765957446809, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 34 i: 0
+49: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"U´"
+TP:  -0.340425531914894,  2.76595744680851, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+50: Int, Const: 31,  32, int ind:0, 
+color:B, 1x1, 
+"Q"
+TP:  -2.04255319148936,  -1.5531914893617, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 50 i: 0
+65: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"Q´"
+TP:  -1.78723404255319,  0.51063829787234, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+66: Biss, Const: 50,  3,  14, 
+invisible, 
+
+68: Int, Const: 66,  32, int ind:0x10000, 
+color:B, 1x1, 
+"P"
+TP:  0.425531914893617,  -1.53191489361702, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 68 i: 0
+83: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"P´"
+TP:  0.0638297872340425,  0.51063829787234, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+84: Seg, Const: 65,  83, 
+color:B, 
+
+85: Seg, Const: 83,  29, 
+color:B, 
+
+86: Seg, Const: 68,  50, 
+color:B, 
+
+87: Seg, Const: 14,  68, 
+color:B, 
+
+88: Refl, Const: 68,  30, 
+color:B, 1x1, 
+"V"
+TP:  1.68085106382979,  -4.8936170212766, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 88 i: 0
+103: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"V´"
+TP:  0.808510638297872,  2.06382978723404, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+104: Seg, Const: 103,  49, 
+color:B, 
+
+105: Seg, Const: 29,  103, 
+color:B, 
+
+106: Seg, Const: 88,  14, 
+color:B, 
+
+107: Seg, Const: 34,  88, 
+color:B, 
+
+108: Int, Const: 66,  32, int ind:0, 
+color:B, 1x1, 
+"T"
+TP:  -2.04255319148936,  -6.02127659574468, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 108 i: 0
+123: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"T´"
+TP:  -1.23404255319149,  2.78723404255319, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+124: Seg, Const: 49,  123, 
+color:B, 
+
+125: Seg, Const: 108,  34, 
+color:B, 
+
+126: Refl, Const: 108,  30, 
+color:B, 1x1, 
+"R"
+TP:  -3.27659574468085,  -3.06382978723404, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 126 i: 0
+141: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"R´"
+TP:  -2.57446808510638,  1.42553191489362, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+142: Seg, Const: 141,  65, 
+color:B, 
+
+143: Seg, Const: 50,  126, 
+color:B, 
+
+145: Int, Const: 30,  32, int ind:0x10000, 
+color:B, 1x1, 
+"S"
+TP:  -3.19148936170213,  -4.78723404255319, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 9 i: 0 10 i: 0 6 i: 0 8 i: 0 145 i: 0
+160: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"S´"
+TP:  -2.08510638297872,  2.34042553191489, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+161: Seg, Const: 160,  141, 
+color:B, 
+
+162: Seg, Const: 123,  160, 
+color:B, 
+
+163: Seg, Const: 145,  108, 
+color:B, 
+
+164: Seg, Const: 126,  145, 
+color:B, 
+

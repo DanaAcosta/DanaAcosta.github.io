@@ -1,0 +1,130 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 0.00cm y: 5.11cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -18.1276595744681 -2.04255319148936
+
+4: Line, Const: 3, Val: 1 0
+color:lig, invisible, 
+
+5: Pt/, Const: 4, Val: -4.63829787234043 -2.04255319148936
+thick, CIRCLE, 
+"L"
+TP:  -5,  -2.08510638297872, TS:  1.70212765957447,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+6: Pt/, Const: 4, Val: 1.65957446808511 -2.04255319148936
+thick, CIRCLE, 
+"R"
+TP:  1.76595744680851,  -1.93617021276596, TS:  1.70212765957447,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+7: PBiss, Const: 5,  6, 
+color:lig, 
+
+8: Par, Const: 5,  7, 
+color:lig, 
+
+9: Par, Const: 6,  7, 
+color:lig, 
+
+10: Pt/, Const: 9, Val: 1.65957446808511 2.5531914893617
+thick, CIRCLE, 
+"b"
+TP:  1.76595744680851,  2.65957446808511, TS:  1.70212765957447,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+11: PBiss, Const: 10,  6, 
+color:lig, invisible, 
+
+13: Int, Const: 7,  11, int ind:0, 
+invisible, 
+
+14: Cir, Const: 13,  10, 
+
+16: Int, Const: 7,  14, int ind:0, 
+"Ojo Ciclope"
+TP:  -2.23404255319149,  -3.72340425531915, TS:  2.27659574468085,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+17: Int, Const: 7,  14, int ind:0x10000, 
+
+18: AngVal, Const: 17,  6,  10, Val: 63 -3 0.470197, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+19: Text, Const: 17,  6,  10, inc.elmts: 18, Val: 64 37 0, nA, nP, 
+invisible, 
+""#"
+TP:  1.36170212765957,  -0.787234042553192, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+21: Int, Const: 8,  14, int ind:0x10000, 
+
+22: AngVal, Const: 17,  5,  21, Val: -203 -3 0.470197, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+23: Text, Const: 17,  5,  21, inc.elmts: 22, Val: -204 37 0, nA, nP, 
+invisible, 
+""#"
+TP:  -4.34042553191489,  -0.787234042553192, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+24: AngVal, Const: 17,  16,  10, Val: -55 43 0.470197, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+25: Text, Const: 17,  16,  10, inc.elmts: 24, Val: -56 112 0, nA, nP, 
+invisible, 
+""#"
+TP:  -1.19148936170213,  -2.38297872340426, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+26: Vec, Const: 16,  17, 
+thick, 
+
+27: Vec, Const: 16,  10, 
+thick, 
+
+28: AngVal, Const: 21,  5,  10, Val: -187 5 0.940395, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+29: Text, Const: 21,  5,  10, inc.elmts: 28, Val: -179 -8 0, A, nP, 
+invisible, 
+""#"
+TP:  -3.80851063829787,  0.170212765957447, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+30: Seg, Const: 5,  6, 
+color:B, DS:5 8, 
+
+31: Pt/, Const: 7, Val: -1.48936170212766 15.7872340425532
+thick, CIRCLE, invisible, 
+"a"
+TP:  -1.38297872340426,  15.8936170212766, TS:  1.70212765957447,  0.48936170212766
+p: 0, Arial, S: 12 C: 7 Fa: 0
+
+32: PBiss, Const: 6,  31, 
+color:lig, invisible, 
+
+34: Int, Const: 7,  32, int ind:0, 
+invisible, 
+
+35: Cir, Const: 34,  31, 
+invisible, 
+
+36: Button, ass.elmts: 35,  31, Val: 621 -503 0, nA, nP, 
+fill color:lGr, pushed, 
+"Objeto distante a"
+TP:  13.2127659574468,  10.7021276595745, TS:  5.23404255319149,  0.48936170212766
+p: 0, Arial, S: 12, C: 40, Fa: 0
+

@@ -1,0 +1,107 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 5.34cm y: -4.55cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -12.1052631578947 -5.07894736842105
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+color:B, invisible, 
+
+5: Pt/, Const: 4, Val: -1.40425531914894 -5.07894736842105
+color:B, 1x1, sticky, 
+"B"
+TP:  -2,  -4.80851063829787, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Pt/, Const: 4, Val: 5.02127659574468 -5.07894736842105
+color:B, thick, CIRCLE, 
+"C"
+TP:  5.23404255319149,  -4.80851063829787, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: Pt, Val: 1.68085106382979 -0.446808510638298
+color:B, thick, CIRCLE, 
+"A"
+TP:  1.53191489361702,  0.191489361702128, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Seg, Const: 7,  5, 
+color:B, 
+
+9: Seg, Const: 7,  6, 
+color:B, 
+
+10: Par, Const: 7,  4, 
+color:B, invisible, 
+
+11: Pt/, Const: 10, Val: -6.74468085106383 -0.446808510638298
+color:B, thick, CIRCLE, 
+"O1"
+TP:  -7.14893617021277,  0.170212765957447, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Seg, Const: 11,  6, 
+color:B, 
+
+14: Int, Const: 8,  12, int ind:0, 
+color:B, 1x1, 
+"L"
+TP:  -0.702127659574468,  -2.91489361702128, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+15: Par, Const: 14,  4, 
+color:B, invisible, 
+
+17: Int, Const: 9,  15, int ind:0, 
+color:B, 1x1, 
+"M"
+TP:  3.93617021276596,  -2.8936170212766, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+18: Pt/, Const: 8, Val: 0.399383563823663 -2.37087033052045
+color:B, 1x1, 
+"D"
+TP:  -0.127659574468085,  -1.95744680851064, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+19: Par, Const: 18,  4, 
+color:B, invisible, 
+
+21: Int, Const: 9,  19, int ind:0, 
+color:B, 1x1, 
+"E"
+TP:  3.29787234042553,  -1.93617021276596, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+22: Seg, Const: 14,  17, 
+color:B, 
+
+23: Seg, Const: 18,  21, 
+color:B, 
+
+24: Seg, Const: 11,  7, 
+color:B, 
+
+25: Seg, Const: 5,  6, 
+color:B, 
+
+26: Sym, Const: 11,  7, 
+color:B, 
+"O2"
+TP:  9.70212765957447,  0.106382978723404, TS:  2.04255319148936,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+27: Seg, Const: 7,  26, 
+color:B, 
+
+28: Seg, Const: 26,  5, 
+color:B, 
+

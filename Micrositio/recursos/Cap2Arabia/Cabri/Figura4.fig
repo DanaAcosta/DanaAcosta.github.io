@@ -1,0 +1,283 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 14.13cm y: -4.21cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: 2.23684210526316 -3.05263157894737
+color:B, 
+
+4: Cir, Const: 3, Val: 4.88007140858703
+color:B, 
+
+5: Line, Const: 3, Val: 1 0
+invisible, 
+
+6: Pt/, Const: 4, Val: 5.94751995205684 0.116905748522242
+invisible, 
+
+7: Ray, Const: 3,  6, 
+invisible, 
+
+8: Refl, Const: 3,  5, 
+color:B, 
+
+9: Refl, Const: 6,  5, 
+invisible, 
+
+10: Ray, Const: 8,  9, 
+invisible, 
+
+11: Cir, Const: 6, Val: 2.58352300292609
+invisible, 
+
+13: Int, Const: 4,  11, int ind:0, 
+invisible, 
+
+14: Refl, Const: 13,  5, 
+invisible, 
+
+15: Biss, Const: 6,  3,  13, 
+invisible, 
+
+17: Int, Const: 15,  4, int ind:0x10000, 
+invisible, 
+
+18: Refl, Const: 17,  5, 
+invisible, 
+
+19: Arc, Const: 6,  17,  13, 
+color:B, thicker, 
+
+20: Arc, Const: 14,  18,  9, 
+color:B, thicker, 
+
+22: Int, Const: 5,  4, int ind:0x10000, 
+color:B, 
+
+23: Arc, Const: 13,  22,  14, 
+color:B, thick, 
+
+24: Perp, Const: 6,  5, 
+invisible, 
+
+25: Perp, Const: 13,  5, 
+invisible, 
+
+26: Pt/, Const: 7, Val: 6.15995704986258 0.298362436231312
+invisible, 
+
+27: Refl, Const: 26,  5, 
+invisible, 
+
+28: Cir, Const: 3,  26, 
+color:B, 
+
+30: Int, Const: 5,  28, int ind:0x10000, 
+invisible, 
+
+31: Arc, Const: 26,  30,  27, 
+color:B, 
+
+32: Seg, Const: 6,  26, 
+color:B, 
+
+33: Seg, Const: 9,  27, 
+color:B, 
+
+34: Pt, Val: 8 0.578947368421053
+invisible, 
+
+35: Pt/, Const: 19, Val: 6.9592077818385 -1.82203848226119
+invisible, 
+
+36: Refl, Const: 35,  5, 
+invisible, 
+
+37: Seg, Const: 3,  35, 
+color:dGr, invisible, 
+
+38: Seg, Const: 3,  36, 
+color:dGr, invisible, 
+
+39: Pt/, Const: 37, Val: 6.88279290393592 -1.84195130301065
+invisible, 
+
+40: Refl, Const: 39,  5, 
+invisible, 
+
+41: Cir, Const: 3,  39, 
+invisible, 
+
+42: Par, Const: 39,  5, 
+color:dGr, invisible, 
+
+43: Par, Const: 40,  5, 
+color:dGr, invisible, 
+
+45: Int, Const: 42,  4, int ind:0, 
+invisible, 
+
+46: Int, Const: 5,  4, int ind:0, 
+invisible, 
+
+48: Int, Const: 43,  4, int ind:0, 
+invisible, 
+
+49: Arc, Const: 45,  46,  48, 
+color:B, 
+
+50: Pt/, Const: 42, Val: -10.2435228938696 -1.84195130301065
+invisible, 
+
+51: Refl, Const: 50,  5, 
+invisible, 
+
+52: Seg, Const: 3,  13, 
+color:B, invisible, 
+
+53: Seg, Const: 3,  14, 
+color:B, invisible, 
+
+55: Int, Const: 5,  41, int ind:0x10000, 
+invisible, 
+
+56: Sym, Const: 3,  55, 
+invisible, 
+
+57: Arc, Const: 39,  55,  40, 
+color:B, thick, 
+
+58: Pt/, Const: 5, Val: 10.0526315789474 -3.05263157894737
+invisible, 
+
+59: Cir, Const: 58,  39, 
+invisible, 
+
+61: Int, Const: 5,  59, int ind:0, 
+invisible, 
+
+62: Arc, Const: 39,  61,  40, 
+color:B, thick, 
+
+63: Pt, Val: 7.84210526315789 1
+invisible, 
+
+64: Pt, Val: 8.86842105263158 1.55263157894737
+1x1, invisible, 
+
+65: Line, Const: 3, Val: 19.2099664053751 3.58454647256439
+invisible, 
+
+66: Pt/, Const: 65, Val: 3.21987448026333 -2.86919943972002
+invisible, 
+
+67: Refl, Const: 66,  5, 
+invisible, 
+
+68: Line, Const: 8,  67, 
+invisible, 
+
+69: Pt/, Const: 5, Val: 19.468085106383 -3.05263157894737
+color:B, thick, CIRCLE, 
+"B"
+TP:  19.6808510638298,  -2.78723404255319, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+70: Perp, Const: 69,  5, 
+invisible, 
+
+72: Int, Const: 65,  70, int ind:0, 
+color:B, 
+"A"
+TP:  19.6808510638298,  0.531914893617021, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+74: Int, Const: 68,  70, int ind:0, 
+color:B, 
+"C"
+TP:  19.6170212765957,  -6.02127659574468, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+76: Int, Const: 65,  4, int ind:0x10000, 
+color:B, 
+
+78: Int, Const: 68,  4, int ind:0x10000, 
+color:B, 
+
+79: Seg, Const: 76,  72, 
+color:B, thick, 
+
+80: Seg, Const: 78,  74, 
+color:B, thick, 
+
+81: Seg, Const: 3,  76, 
+color:B, thicker, DS:8 14, 
+
+82: Seg, Const: 3,  78, 
+color:B, thicker, DS:8 14, 
+
+83: Seg, Const: 3,  22, 
+color:B, thicker, DS:8 14, 
+
+84: Seg, Const: 22,  69, 
+color:B, thick, 
+
+85: Seg, Const: 72,  74, 
+color:B, thicker, 
+
+86: Seg, Const: 35,  72, 
+color:B, 
+
+87: Seg, Const: 72,  36, 
+color:B, 
+
+88: Seg, Const: 36,  74, 
+color:B, 
+
+89: Seg, Const: 74,  35, 
+color:B, 
+
+90: Seg, Const: 35,  69, 
+color:B, 
+
+91: Seg, Const: 69,  36, 
+color:B, 
+
+92: Pt/, Const: 85, Val: 19.468085106383 -1.81382998775724
+thick, CIRCLE, invisible, 
+"O"
+TP:  19.6808510638298,  -1.51063829787234, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 7 Fa: 0
+
+93: Seg, Const: 3,  92, 
+invisible, 
+
+95: Int, Const: 93,  23, int ind:0, 
+invisible, 
+
+96: Int, Const: 93,  23, int ind:0x10000, 
+
+97: Seg, Const: 3,  95, 
+color:R, thicker, DS:5 8, invisible, 
+
+98: Pt/, Const: 23, Val: 7.11513214076343 -2.92078590231223
+invisible, 
+
+99: Seg, Const: 92,  98, 
+color:R, thicker, invisible, 
+
+100: Locus, Const: 98 99, unlk pts, locus, nb pts: 10, 
+invisible, 
+
+101: Button, ass.elmts: 92,  100,  97, Val: 1070 -25 0, nA, nP, 
+fill color:lGr, pushed, 
+"Todos los puntos en el segmento"
+TP:  22.7659574468085,  0.531914893617021, TS:  6.65957446808511,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+

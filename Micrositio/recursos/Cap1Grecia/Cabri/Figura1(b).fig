@@ -1,0 +1,94 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 11.89cm y: -0.64cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+color:B, invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -15.6842105263158 -4.26315789473684
+color:B, 
+
+4: Line, Const: 3, Val: 1 0
+color:lig, invisible, 
+
+5: Pt/, Const: 4, Val: 0.210526315789475 -4.26315789473684
+color:B, thick, sticky, 
+"O"
+TP:  -0.319148936170213,  -3.63829787234043, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Perp, Const: 5,  4, 
+color:lig, invisible, 
+
+7: Pt/, Const: 6, Val: 0.210526315789475 3.93617021276596
+color:B, thick, CIRCLE, 
+"A"
+TP:  0.234042553191489,  4.61702127659574, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Perp, Const: 7,  6, 
+color:lig, invisible, 
+
+9: Pt/, Const: 8, Val: 2.40425531914894 3.93617021276596
+color:B, thick, CIRCLE, 
+"B"
+TP:  2.40425531914894,  4.59574468085106, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Sym, Const: 7,  9, 
+color:B, thicker, 
+"C"
+TP:  4.38297872340426,  4.61702127659574, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Sym, Const: 9,  10, 
+color:B, thicker, 
+"D"
+TP:  6.5531914893617,  4.61702127659574, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Sym, Const: 10,  11, 
+color:B, thicker, 
+"E"
+TP:  8.78723404255319,  4.59574468085106, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+13: Seg, Const: 7,  9, 
+color:B, thicker, 
+
+14: Seg, Const: 9,  10, 
+color:B, thicker, 
+
+15: Seg, Const: 10,  11, 
+color:B, thicker, 
+
+16: Seg, Const: 11,  12, 
+color:B, thicker, 
+
+17: Seg, Const: 5,  7, 
+color:B, 
+
+18: Seg, Const: 9,  5, 
+color:B, 
+
+19: Seg, Const: 5,  10, 
+color:B, 
+
+20: Seg, Const: 11,  5, 
+color:B, 
+
+21: Seg, Const: 5,  12, 
+color:B, 
+
+22: Angle, Const: 7,  5,  9, Val: -1 1.3
+
+23: Angle, Const: 9,  5,  10, Val: -1 1.6
+
+24: Angle, Const: 10,  5,  11, Val: -1 1.7
+
+25: Angle, Const: 11,  5,  12, Val: -1 2
+

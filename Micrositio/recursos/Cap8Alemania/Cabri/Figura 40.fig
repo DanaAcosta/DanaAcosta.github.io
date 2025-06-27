@@ -1,0 +1,104 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 2.51cm y: 1.72cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -13.8684210526316 -1.36842105263158
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -4.13157894736842 -1.36842105263158
+color:B, thick, CIRCLE, 
+"L"
+TP:  -4.53191489361702,  -1.29787234042553, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Pt/, Const: 4, Val: 1.71052631578947 -1.36842105263158
+color:B, thick, CIRCLE, 
+"R"
+TP:  1.87234042553191,  -1.25531914893617, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: PBiss, Const: 5,  6, 
+invisible, 
+
+8: Pt/, Const: 7, Val: -1.21052631578947 5.71052631578947
+color:B, thick, CIRCLE, 
+"A"
+TP:  -0.957446808510638,  6.08510638297872, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Vec, Const: 5,  8, 
+color:B, 
+
+10: Vec, Const: 6,  8, 
+color:B, 
+
+11: Ray, Const: 5,  8, 
+invisible, 
+
+12: Pt/, Const: 11, Val: 0.863529641948755 10.7368421052632
+color:B, thick, CIRCLE, 
+"B"
+TP:  1.1063829787234,  11.3617021276596, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+13: PBiss, Const: 6,  12, 
+invisible, 
+
+15: Int, Const: 13,  7, int ind:0, 
+color:B, invisible, 
+
+16: Cir, Const: 15,  12, 
+color:B, 
+
+18: Int, Const: 7,  16, int ind:0, 
+color:B, invisible, 
+
+19: Int, Const: 7,  16, int ind:0x10000, 
+color:B, 
+"B' "
+TP:  -2.02127659574468,  11.7659574468085, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+20: Vec, Const: 6,  12, 
+color:B, 
+
+21: Vec, Const: 5,  19, 
+color:B, 
+
+22: Vec, Const: 6,  19, 
+color:B, 
+
+23: Vec, Const: 5,  12, 
+color:B, 
+
+24: Seg, Const: 18,  19, 
+color:B, DS:5 8, 
+
+25: Seg, Const: 5,  6, 
+color:B, DS:5 8, 
+
+26: Angle, Const: 8,  5,  19, Val: 1 4.7
+"a"
+TP:  -2.78723404255319,  3.70212765957447, TS:  0.787234042553192,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+27: Angle, Const: 8,  6,  19, Val: -1 4.7
+"a"
+TP:  0.0851063829787234,  3.65957446808511, TS:  0.787234042553192,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+28: Angle, Const: 19,  6,  12, Val: -1 3.4
+"a"
+TP:  0.829787234042553,  3.65957446808511, TS:  0.787234042553192,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+

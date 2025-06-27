@@ -1,0 +1,124 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: -0.02cm y: 0.00cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -13.2127659574468 0.936170212765957
+invisible, sticky, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: 1.82978723404255 0.936170212765957
+invisible, sticky, 
+
+6: Perp, Const: 5,  4, 
+invisible, 
+
+7: Ray, Const: 5,  3, 
+invisible, 
+
+8: Pt/, Const: 6, Val: 1.82978723404255 4.34042553191489
+color:B, 
+"O1"
+TP:  1.78723404255319,  5, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Refl, Const: 8,  4, 
+color:B, 
+"O2"
+TP:  1.76595744680851,  -2.57446808510638, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Seg, Const: 9,  8, 
+color:B, thicker, 
+
+11: Pt/, Const: 7, Val: -3.61702127659574 0.936170212765957
+color:B, thick, CIRCLE, 
+"A"
+TP:  -4.17021276595745,  1.25531914893617, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Mid, Const: 11,  8, 
+invisible, 
+
+13: Mid, Const: 11,  9, 
+invisible, 
+
+14: Vec, Const: 11,  12, 
+color:B, 
+
+15: Vec, Const: 11,  13, 
+color:B, 
+
+16: Seg, Const: 12,  8, 
+color:B, 
+
+17: Seg, Const: 13,  9, 
+color:B, 
+
+18: Refl, Const: 11,  6, 
+color:B, invisible, 
+"A' "
+TP:  7.31914893617021,  1.06382978723404, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+19: Par, Const: 8,  4, 
+color:B, DS:5 8, 
+
+20: Par, Const: 9,  4, 
+color:B, DS:5 8, 
+
+21: Angle, Const: 9,  11,  8, Val: 1 1
+"a"
+TP:  -2.78723404255319,  1.1063829787234, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+22: Refl, Const: 12,  19, 
+invisible, 
+
+23: Refl, Const: 13,  20, 
+invisible, 
+
+24: Refl, Const: 11,  19, 
+invisible, 
+
+25: Refl, Const: 11,  20, 
+invisible, 
+
+26: Vec, Const: 24,  22, 
+color:B, invisible, 
+
+27: Vec, Const: 25,  23, 
+color:B, invisible, 
+
+28: Seg, Const: 22,  8, 
+color:B, invisible, 
+
+29: Seg, Const: 23,  9, 
+color:B, invisible, 
+
+30: Seg, Const: 8,  18, 
+color:B, DS:5 8, invisible, 
+
+31: Seg, Const: 18,  9, 
+color:B, DS:5 8, invisible, 
+
+32: Angle, Const: 9,  18,  8, Val: -1 -1
+invisible, 
+"b"
+TP:  8.21276595744681,  1.40425531914894, TS:  0.638297872340426,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+33: Button, ass.elmts: 26,  28,  30,  18,  31,  32,  27,  29, Val: 618 -328 0, nA, nP, 
+fill color:lGr, pushed, 
+"A'"
+TP:  13.1489361702128,  6.97872340425532, TS:  4.19148936170213,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+

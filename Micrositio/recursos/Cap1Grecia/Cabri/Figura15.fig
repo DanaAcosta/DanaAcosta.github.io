@@ -1,0 +1,66 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: -0.02cm y: 0.00cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -18.0851063829787 -0.851063829787234
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -8.91489361702128 -0.851063829787234
+invisible, 
+
+6: Pt/, Const: 4, Val: 7.12765957446809 -0.851063829787234
+invisible, 
+
+7: Seg, Const: 5,  6, 
+color:B, thicker, 
+
+8: Pt, Val: 3 3.29787234042553
+color:B, thick, CIRCLE, 
+"Ojo"
+TP:  3.17021276595745,  3.36170212765957, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Pt, Val: -6.93617021276596 2.63829787234043
+color:B, thick, CIRCLE, 
+"Objeto"
+TP:  -8.51063829787234,  2.76595744680851, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Refl, Const: 9,  4, 
+color:B, thick, 
+"Imagen"
+TP:  -8.70212765957447,  -3.87234042553191, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Line, Const: 8,  10, 
+color:dG, invisible, 
+
+13: Int, Const: 4,  11, int ind:0, 
+invisible, 
+
+14: Vec, Const: 8,  13, 
+color:B, thicker, 
+
+15: Vec, Const: 13,  9, 
+color:B, thicker, 
+
+16: Seg, Const: 9,  10, 
+color:B, DS:5 8, 
+
+17: Seg, Const: 10,  13, 
+color:B, DS:5 8, 
+
+19: Int, Const: 16,  7, int ind:0, 
+invisible, 
+
+20: Angle, Const: 9,  19,  13, Val: 1 1
+

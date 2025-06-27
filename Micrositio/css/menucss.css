@@ -1,0 +1,160 @@
+body, nav, ul, li, a  {margin: 0; padding: 0;}
+body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+a {text-decoration: none;}
+.container {
+    width: 90%;
+    max-width: 1300px;
+    margin: 10px auto;
+    font-size: 15px;
+}
+.nav li {
+    float: left;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+}
+.nav li li, li li li {
+    width: 100%;
+    max-width: 1300px;
+    font-size: 15px;
+}
+.toggleMenu {
+    display:  none;
+    background: #666;
+    padding: 10px 15px;
+    color: #fff;
+}
+.nav {
+    list-style: none;
+     zoom: 1;
+     background:#ffffff;
+}
+.nav:before,
+.nav:after {
+    content: " "; 
+    display: table; 
+}
+.nav:after {
+    clear: both;
+}
+.nav ul {
+    list-style: none;
+    width: 9em;
+}
+.nav a {
+    padding: 10px 15px;
+    color:#fff;
+}
+.nav li {
+    position: relative;
+}
+.nav > li {
+    float: left;
+    border-top: 0px solid #104336;
+}
+.nav > li > .parent {
+    background-image: url("images/downArrow.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.nav > li > a {
+    display: block;
+}
+.nav li  ul {
+    position: absolute;
+    left: -9999px;
+}
+.nav > li.hover > ul {
+    left: 0;
+}
+.nav li li.hover ul {
+    left: 100%;
+    top: 0;
+}
+.nav li li a {
+    display: block;
+    background: #bfbfbf;
+    position: relative;
+    z-index:100;
+    border-top: 0px solid #175e4c;
+    color: #2E2E2E;
+}
+.nav li li li a {
+    background:#d9d9d9;
+    z-index:200;
+    color: #2E2E2E;
+    border-top: 0px solid #1d7a62;
+}
+
+@media screen and (max-width: 768px) {
+    .active {
+        display: block;
+    }
+    .nav > li {
+        float: none;
+        width: 100%;
+    }
+    .nav > li > .parent {
+        background-position: 95% 50%;
+    }
+    .nav li li .parent {
+        background-image: url("images/downArrow.png");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
+    }
+    .nav ul {
+        display: block;
+        width: 100%;
+    }
+   .nav > li.hover > ul , .nav li li.hover ul {
+        position: static;
+    }
+
+}
+.boton-estilo {
+  border: none;
+  border-radius: 30px;
+  background-color: #d10f0f; /* rojo vibrante */
+  color: white;
+  padding: 6px 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.2;
+  transition: background-color 0.3s;
+}
+
+
+.doble-linea {
+    min-width: 125px; /* o el ancho que necesites */
+  white-space: normal;  /* permite el salto de línea */
+  height: auto;
+}
+
+/* Adding some background color to the different menu items */
+
+.container li:nth-child(6n+1) {
+  background: #cb1215;
+}
+
+.container li:nth-child(6n+2) {
+  background: #cb1215;
+}
+
+.container li:nth-child(6n+3) {
+  background: #cb1215;
+}
+
+.container li:nth-child(6n+4) {
+  background: #cb1215;
+}
+
+.container li:nth-child(6n+5) {
+  background: #cb1215;
+}
+
+.container li:nth-child(6n+6) {
+  background: rgb(21, 40, 54);
+}

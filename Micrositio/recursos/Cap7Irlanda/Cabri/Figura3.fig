@@ -1,0 +1,143 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 7.66cm y: -1.09cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -7.78947368421053 -2.78947368421053
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -3.52631578947368 -2.78947368421053
+invisible, 
+
+6: Perp, Const: 5,  4, 
+invisible, 
+
+7: Pt/, Const: 6, Val: -3.52631578947368 -0.765957446808511
+color:B, 
+"O1"
+TP:  -4.38297872340426,  -0.595744680851064, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Refl, Const: 7,  4, 
+color:B, sticky, 
+"O2"
+TP:  -4.42553191489362,  -4.40425531914894, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Pt, Val: 2.8936170212766 -2.21276595744681
+color:B, thick, CIRCLE, 
+"A"
+TP:  3.06382978723404,  -1.87234042553191, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Seg, Const: 7,  9, 
+color:B, thicker, 
+
+11: Seg, Const: 9,  8, 
+color:B, thicker, 
+
+12: Angle, Const: 9,  7,  8, Val: 1 1
+"a"
+TP:  -3.12765957446809,  -1.1063829787234, TS:  0.787234042553192,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+13: Angle, Const: 7,  8,  9, Val: 1 1
+"b"
+TP:  -3.23404255319149,  -3.59574468085106, TS:  0.787234042553192,  0.595744680851064
+p: 0, Symbol, S: 14 C: 40 Fa: 0
+
+14: Seg, Const: 8,  7, 
+color:B, thicker, 
+"d"
+TP:  -4,  -2.38297872340426, TS:  1.14893617021277,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+15: AngVal, Const: 12, Val: -134 71 1.34914, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+16: Text, Const: 12, inc.elmts: 15, Val: 346 -198 1, A, nP, 
+invisible, 
+""#"
+TP:  7.36170212765957,  4.21276595744681, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+17: AngVal, Const: 13, Val: -144 188 1.18597, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+18: Text, Const: 13, inc.elmts: 17, Val: 456 -61 0, A, nP, 
+invisible, 
+""#"
+TP:  9.70212765957447,  1.29787234042553, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+19: Text, inc.elmts: 15, Val: 359 -157 1, nA, nP, 
+"a: "#"
+TP:  7.63829787234043,  3.34042553191489, TS:  2.53191489361702,  0.595744680851064
+p: 0, Symbol, S: 14, C: 40, Fa: 0, p: 1, Arial, S: 12, C: 40, Fa: 0
+
+20: Text, inc.elmts: 17, Val: 361 -114 1, nA, nP, 
+"b: "#"
+TP:  7.68085106382979,  2.42553191489362, TS:  2.53191489361702,  0.595744680851064
+p: 0, Symbol, S: 14, C: 40, Fa: 0, p: 1, Arial, S: 12, C: 40, Fa: 0
+
+21: Lgth, Const: 14, Val: -167 108 190.211, A, P, 
+NbD:2, FD, cm, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+22: Text, Const: 14, inc.elmts: 21, Val: 624 -163 1, A, nP, 
+invisible, 
+""#"
+TP:  13.2765957446809,  3.46808510638298, TS:  1.51063829787234,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+23: Text, inc.elmts: 21, Val: 360 -191 1, nA, nP, 
+"d: "#"
+TP:  7.65957446808511,  4.06382978723404, TS:  2.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+24: Formula, Const: 21,  15,  17, Val: 574 139 325.547, A, P, 
+NbD:2, nFD, cm, 
+a * sin(b) / sin(180-(b + c))
+TP:  12.2127659574468,  -2.95744680851064, TS:  1.51063829787234,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+25: Lgth, Const: 10, Val: 25 86 309.304, A, P, 
+NbD:2, FD, cm, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+26: Text, Const: 10, inc.elmts: 25, Val: 487 -46 1, A, nP, 
+invisible, 
+""#"
+TP:  10.3617021276596,  0.978723404255319, TS:  1.51063829787234,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+27: Lgth, Const: 11, Val: -46 191 325.547, A, P, 
+NbD:2, FD, cm, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+28: Text, Const: 11, inc.elmts: 27, Val: -48 178 1, nA, nP, 
+""#"
+TP:  -1.02127659574468,  -3.78723404255319, TS:  1.51063829787234,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+29: Text, inc.elmts: 25, Val: 359 -66 1, nA, nP, 
+"O1A: "#"
+TP:  7.63829787234043,  1.40425531914894, TS:  2.63829787234043,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+30: Text, inc.elmts: 24, Val: 362 -21 1, nA, nP, 
+"O2A: "#"
+TP:  7.70212765957447,  0.446808510638298, TS:  3.36170212765957,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+

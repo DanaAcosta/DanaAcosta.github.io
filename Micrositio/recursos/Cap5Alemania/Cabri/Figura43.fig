@@ -1,0 +1,128 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 2.51cm y: 0.96cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -0.638297872340426 3.63829787234043
+color:B, 1x1, 
+"F"
+TP:  -0.51063829787234,  3.70212765957447, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+4: Cir, Const: 3, Val: 5.15150809581182
+color:B, 
+
+5: Line, Const: 3, Val: 0 1
+invisible, 
+
+7: Int, Const: 5,  4, int ind:0x10000, 
+color:B, 1x1, 
+"A"
+TP:  -0.638297872340426,  9.48936170212766, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Pt/, Const: 4, Val: -3.46518835926955 7.94488884852151
+color:B, thick, CIRCLE, 
+"B"
+TP:  -3.93617021276596,  8.5531914893617, TS:  1.29787234042553,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+9: Seg, Const: 3,  8, 
+color:B, 
+
+10: Refl, Const: 7,  9, 
+color:B, 1x1, 
+"C"
+TP:  -6.19148936170213,  6.06382978723404, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Seg, Const: 10,  3, 
+color:B, 
+
+12: Refl, Const: 8,  11, 
+color:B, 1x1, 
+"D"
+TP:  -6.38297872340426,  3.04255319148936, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+13: Seg, Const: 12,  3, 
+color:B, 
+
+14: Pt/, Const: 5, Val: -0.638297872340426 -6.25979843225084
+color:B, thick, CIRCLE, 
+"E"
+TP:  -0.425531914893617,  -5.74468085106383, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+15: Seg, Const: 8,  14, 
+color:B, 
+
+16: Seg, Const: 10,  14, 
+color:B, 
+
+17: Seg, Const: 12,  14, 
+color:B, 
+
+18: Seg, Const: 7,  8, 
+color:B, 
+
+19: Seg, Const: 8,  10, 
+color:B, 
+
+20: Seg, Const: 10,  12, 
+color:B, 
+
+21: Perp, Const: 8,  5, 
+invisible, 
+
+22: Perp, Const: 8,  16, 
+invisible, 
+
+24: Int, Const: 5,  21, int ind:0, 
+color:B, 1x1, 
+"I"
+TP:  -0.51063829787234,  8, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+25: Line, Const: 14,  10, 
+invisible, 
+
+27: Int, Const: 22,  25, int ind:0, 
+color:B, 1x1, 
+"H"
+TP:  -6.48936170212766,  7.40425531914894, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+28: Int, Const: 5,  4, int ind:0, 
+color:B, 1x1, 
+"G"
+TP:  -0.425531914893617,  -1.57446808510638, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+29: Seg, Const: 14,  7, 
+color:B, 
+
+30: Seg, Const: 24,  8, 
+color:B, 
+
+31: Seg, Const: 8,  27, 
+color:B, 
+
+32: Seg, Const: 27,  10, 
+color:B, 
+
+33: Seg, Const: 28,  8, 
+color:B, 
+
+34: Seg, Const: 28,  10, 
+color:B, 
+
+35: Seg, Const: 28,  12, 
+color:B, 
+

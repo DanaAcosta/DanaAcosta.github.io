@@ -1,0 +1,134 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 7.51cm y: -3.19cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -8.97368421052632 -6.94736842105263
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: -0.340425531914894 -6.94736842105263
+color:B, thick, CIRCLE, 
+"A"
+TP:  -0.617021276595745,  -7, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Pt/, Const: 4, Val: 6.53191489361702 -6.94736842105263
+color:B, thick, CIRCLE, 
+"A´"
+TP:  6.68085106382979,  -6.91489361702128, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+7: PBiss, Const: 5,  6, 
+invisible, 
+
+9: Int, Const: 4,  7, int ind:0, 
+color:B, thick, 
+"C"
+TP:  2.95744680851064,  -6.97872340425532, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+10: Pt/, Const: 7, Val: 3.09574468085106 0.638297872340426
+color:B, thick, CIRCLE, 
+"D"
+TP:  2.91489361702128,  1.40425531914894, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+11: Par, Const: 10,  4, 
+invisible, 
+
+12: Pt/, Const: 11, Val: 1.34042553191489 0.638297872340426
+color:B, thick, CIRCLE, 
+"E"
+TP:  0.914893617021277,  1.29787234042553, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+13: Refl, Const: 12,  7, 
+color:B, 
+"Z"
+TP:  4.93617021276596,  1.31914893617021, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+14: Seg, Const: 12,  13, 
+color:B, thicker, 
+
+15: Seg, Const: 5,  13, 
+color:B, 
+
+16: Seg, Const: 12,  5, 
+color:B, 
+
+17: Seg, Const: 12,  6, 
+color:B, 
+
+18: Seg, Const: 6,  13, 
+color:B, 
+
+20: Int, Const: 15,  17, int ind:0, 
+color:B, 1x1, 
+"T"
+TP:  2.70212765957447,  -0.957446808510638, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+21: Par, Const: 20,  4, 
+color:B, invisible, 
+
+22: Seg, Const: 5,  10, 
+color:B, thicker, 
+
+23: Seg, Const: 10,  6, 
+color:B, thicker, 
+
+25: Int, Const: 22,  21, int ind:0, 
+color:B, 1x1, 
+"H"
+TP:  1.29787234042553,  -1.31914893617021, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+27: Int, Const: 23,  21, int ind:0, 
+color:B, 1x1, 
+"K"
+TP:  4.53191489361702,  -1.38297872340426, TS:  2.1063829787234,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+28: Seg, Const: 10,  9, 
+color:B, DS:5 8, invisible, 
+
+29: Sym, Const: 20,  25, 
+color:B, 1x1, 
+"L"
+TP:  0.170212765957447,  -1.38297872340426, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+30: Sym, Const: 20,  27, 
+color:B, 1x1, 
+"M"
+TP:  5.68085106382979,  -1.46808510638298, TS:  0.787234042553192,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+31: Seg, Const: 29,  30, 
+color:B, 
+
+32: Seg, Const: 5,  6, 
+color:B, 
+
+33: Seg, Const: 9,  12, 
+color:R, thick, invisible, 
+
+34: Seg, Const: 9,  13, 
+color:R, thick, invisible, 
+
+35: Button, ass.elmts: 33,  28,  34, Val: 529 -11 0, nA, nP, 
+fill color:lGr, pushed, 
+"Pirámide Cíclope"
+TP:  11.2553191489362,  0.234042553191489, TS:  5.87234042553191,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+

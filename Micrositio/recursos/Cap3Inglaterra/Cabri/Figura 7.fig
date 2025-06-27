@@ -1,0 +1,459 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: -2.36cm y: -6.28cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -9.36170212765957 -2.34042553191489
+invisible, 
+
+4: Line, Const: 3, Val: 1 0
+invisible, 
+
+5: Pt/, Const: 4, Val: 3.84882418812991 -2.34042553191489
+color:B, 
+
+6: Ray, Const: 5, Val: -0.800313217943221 0.602578016879329
+invisible, 
+
+7: Perp, Const: 5,  4, 
+invisible, 
+
+8: Cir, Const: 5, Val: 2.05218370942898
+invisible, 
+
+9: Pt/, Const: 6, Val: -1.70380739081746 1.84030477502979
+invisible, 
+
+10: Par, Const: 9,  6, 
+invisible, 
+
+11: Pt/, Const: 10, Val: 1.88801791713327 -0.864080111432864
+color:B, 1x1, 
+
+12: Pt/, Const: 10, Val: -0.010887763050003 0.565658637536429
+color:B, 
+
+13: Vec, Const: 12,  11, 
+color:B, thick, 
+
+14: Line, Const: 9,  5, 
+invisible, 
+
+15: Ray, Const: 5, Val: 0.699352781565991 -0.865769984219136
+invisible, 
+
+17: Int, Const: 15,  8, int ind:0x10000, 
+color:B, invisible, 
+
+Ma: Compass, Const: 12 i: 0 11 i: 0 17 i: 0
+20: Ma R, F No1, 
+invisible, 
+
+22: Int, Const: 15,  20, int ind:0x10000, 
+color:B, 
+
+23: Vec, Const: 17,  22, 
+color:B, thick, 
+
+25: Int, Const: 14,  8, int ind:0x10000, 
+color:B, invisible, 
+
+Ma: Compass, Const: 12 i: 0 11 i: 0 25 i: 0
+28: Ma R, F No1, 
+invisible, 
+
+30: Int, Const: 14,  28, int ind:0x10000, 
+color:B, invisible, 
+
+31: Mid, Const: 25,  30, 
+color:B, invisible, 
+
+32: Vec, Const: 25,  31, 
+color:B, invisible, 
+
+33: Pt/, Const: 8, Val: 4.43411203718105 -4.30737650003758
+color:B, invisible, 
+
+Ma: Compass, Const: 25 i: 0 31 i: 0 33 i: 0
+36: Ma R, F No1, 
+invisible, 
+
+37: Line, Const: 5,  33, 
+invisible, 
+
+39: Int, Const: 37,  36, int ind:0x10000, 
+invisible, 
+
+40: Mid, Const: 33,  39, 
+invisible, 
+
+41: Vec, Const: 33,  40, 
+color:B, thicker, 
+
+42: Pt/, Const: 8, Val: 5.74256949707384 -3.13111300626777
+color:B, invisible, 
+
+43: Ray, Const: 5,  42, 
+invisible, 
+
+Ma: Compass, Const: 17 i: 0 22 i: 0 42 i: 0
+46: Ma R, F No1, 
+invisible, 
+
+48: Int, Const: 43,  46, int ind:0x10000, 
+invisible, 
+
+49: Sym, Const: 42,  48, 
+invisible, 
+
+50: Vec, Const: 42,  49, 
+color:B, thicker, 
+
+52: Int, Const: 7,  8, int ind:0, 
+color:B, invisible, 
+
+Ma: Compass, Const: 33 i: 0 40 i: 0 52 i: 0
+55: Ma R, F No1, 
+invisible, 
+
+57: Int, Const: 7,  55, int ind:0, 
+invisible, 
+
+58: Mid, Const: 52,  57, 
+invisible, 
+
+59: Vec, Const: 52,  58, 
+color:B, thicker, 
+
+60: Seg, Const: 12,  5, 
+color:B, 
+
+61: Seg, Const: 5,  17, 
+color:B, 
+
+62: Seg, Const: 5,  42, 
+color:B, DS:5 8, 
+
+63: Seg, Const: 5,  25, 
+color:B, DS:5 8, 
+
+64: Seg, Const: 5,  33, 
+color:B, DS:5 8, 
+
+65: Seg, Const: 5,  52, 
+color:B, DS:5 8, 
+
+66: Pt/, Const: 4, Val: -3.12486002239641 -2.34042553191489
+color:B, invisible, 
+
+67: Pt/, Const: 4, Val: 15.7435610302352 -2.34042553191489
+color:B, invisible, 
+
+68: Seg, Const: 66,  67, 
+color:B, 
+
+69: Biss, Const: 33,  5,  17, 
+invisible, 
+
+71: Int, Const: 69,  8, int ind:0x10000, 
+color:B, invisible, 
+
+Ma: Compass, Const: 33 i: 0 40 i: 0 71 i: 0
+74: Ma R, F No1, 
+invisible, 
+
+76: Int, Const: 69,  74, int ind:0x10000, 
+invisible, 
+
+77: Sym, Const: 71,  76, 
+invisible, 
+
+78: Vec, Const: 71,  77, 
+color:B, thicker, 
+
+Ma: Compass, Const: 42 i: 0 49 i: 0 25 i: 0
+81: Ma R, F No1, 
+invisible, 
+
+83: Int, Const: 14,  81, int ind:0x10000, 
+invisible, 
+
+Ma: Compass, Const: 17 i: 0 22 i: 0 25 i: 0
+86: Ma R, F No1, 
+invisible, 
+
+88: Int, Const: 14,  86, int ind:0x10000, 
+invisible, 
+
+89: Mid, Const: 88,  83, 
+invisible, 
+
+90: Vec, Const: 25,  89, 
+color:B, thicker, 
+
+91: Biss, Const: 42,  5,  67, 
+invisible, 
+
+93: Int, Const: 91,  8, int ind:0x10000, 
+color:B, invisible, 
+
+Ma: Compass, Const: 42 i: 0 49 i: 0 93 i: 0
+96: Ma R, F No1, 
+invisible, 
+
+98: Int, Const: 91,  96, int ind:0x10000, 
+invisible, 
+
+99: Sym, Const: 93,  98, 
+invisible, 
+
+100: Vec, Const: 93,  99, 
+color:B, thicker, 
+
+101: Seg, Const: 5,  71, 
+color:B, DS:5 8, 
+
+102: Seg, Const: 5,  93, 
+color:B, DS:5 8, 
+
+103: Pt/, Const: 8, Val: 5.61448128270111 -1.29452257196303
+invisible, 
+
+104: Pt/, Const: 4, Val: -8.80851063829787 -2.34042553191489
+invisible, 
+
+Ma: Compass, Const: 5 i: 0 103 i: 0 104 i: 0
+107: Ma R, F No1, 
+invisible, 
+
+108: Par, Const: 104,  60, 
+invisible, 
+
+109: Par, Const: 12,  4, 
+invisible, 
+
+111: Int, Const: 108,  109, int ind:0, 
+invisible, 
+
+112: Par, Const: 11,  109, 
+invisible, 
+
+114: Int, Const: 108,  112, int ind:0, 
+invisible, 
+
+115: Vec, Const: 111,  114, 
+color:B, thick, 
+
+116: Seg, Const: 111,  104, 
+color:B, 
+
+117: Perp, Const: 104,  4, 
+color:B, invisible, 
+
+119: Int, Const: 117,  107, int ind:0, 
+invisible, 
+
+121: Int, Const: 108,  107, int ind:0, 
+invisible, 
+
+123: Int, Const: 4,  107, int ind:0x10000, 
+invisible, 
+
+124: Biss, Const: 119,  104,  121, 
+color:B, invisible, 
+
+126: Int, Const: 124,  107, int ind:0x10000, 
+invisible, 
+
+127: Biss, Const: 119,  104,  126, 
+color:B, invisible, 
+
+128: Biss, Const: 126,  104,  121, 
+color:B, invisible, 
+
+130: Int, Const: 127,  107, int ind:0x10000, 
+invisible, 
+
+132: Int, Const: 128,  107, int ind:0x10000, 
+invisible, 
+
+133: Refl, Const: 132,  108, 
+invisible, 
+
+134: Refl, Const: 126,  108, 
+invisible, 
+
+135: Seg, Const: 104,  119, 
+color:B, DS:5 8, 
+
+136: Seg, Const: 104,  130, 
+color:B, DS:5 8, 
+
+137: Seg, Const: 104,  126, 
+color:B, DS:5 8, 
+
+138: Seg, Const: 104,  132, 
+color:B, DS:5 8, 
+
+139: Seg, Const: 104,  121, 
+color:B, DS:5 8, 
+
+140: Seg, Const: 104,  133, 
+color:B, DS:5 8, 
+
+141: Seg, Const: 104,  134, 
+color:B, 
+
+Ma: Compass, Const: 111 i: 0 114 i: 0 134 i: 0
+144: Ma R, F No1, 
+invisible, 
+
+145: Line, Const: 104,  134, 
+color:B, invisible, 
+
+147: Int, Const: 145,  144, int ind:0x10000, 
+invisible, 
+
+148: Vec, Const: 134,  147, 
+color:B, thick, 
+
+149: Line, Const: 104,  133, 
+color:lig, invisible, 
+
+150: Cir, Const: 104,  147, 
+invisible, 
+
+152: Int, Const: 149,  150, int ind:0x10000, 
+invisible, 
+
+154: Int, Const: 108,  150, int ind:0, 
+invisible, 
+
+156: Int, Const: 128,  150, int ind:0x10000, 
+invisible, 
+
+158: Int, Const: 124,  150, int ind:0x10000, 
+invisible, 
+
+160: Int, Const: 127,  150, int ind:0x10000, 
+invisible, 
+
+162: Int, Const: 117,  150, int ind:0, 
+invisible, 
+
+163: Mid, Const: 152,  133, 
+invisible, 
+
+164: Mid, Const: 154,  121, 
+invisible, 
+
+165: Mid, Const: 164,  121, 
+invisible, 
+
+166: Mid, Const: 156,  132, 
+invisible, 
+
+167: Mid, Const: 166,  132, 
+invisible, 
+
+168: Mid, Const: 167,  132, 
+invisible, 
+
+169: Mid, Const: 158,  126, 
+invisible, 
+
+170: Mid, Const: 169,  126, 
+invisible, 
+
+171: Mid, Const: 170,  126, 
+invisible, 
+
+172: Mid, Const: 171,  126, 
+invisible, 
+
+173: Mid, Const: 160,  130, 
+invisible, 
+
+174: Mid, Const: 173,  130, 
+invisible, 
+
+175: Mid, Const: 174,  130, 
+invisible, 
+
+176: Mid, Const: 175,  130, 
+invisible, 
+
+177: Mid, Const: 176,  130, 
+invisible, 
+
+178: Mid, Const: 162,  119, 
+invisible, 
+
+179: Mid, Const: 178,  119, 
+invisible, 
+
+180: Mid, Const: 179,  119, 
+invisible, 
+
+181: Mid, Const: 180,  119, 
+invisible, 
+
+182: Mid, Const: 181,  119, 
+invisible, 
+
+183: Mid, Const: 119,  182, 
+invisible, 
+
+184: Vec, Const: 119,  183, 
+color:B, 
+
+185: Vec, Const: 130,  177, 
+color:B, thicker, 
+
+186: Vec, Const: 126,  172, 
+color:B, thicker, 
+
+187: Vec, Const: 132,  168, 
+color:B, thicker, 
+
+188: Vec, Const: 121,  165, 
+color:B, thicker, 
+
+189: Vec, Const: 133,  163, 
+color:B, thicker, 
+
+190: Pt/, Const: 4, Val: -19.3673012318029 -2.34042553191489
+invisible, 
+
+191: Pt/, Const: 4, Val: -3.68645016797311 -2.34042553191489
+invisible, 
+
+192: Seg, Const: 190,  191, 
+color:B, 
+
+193: Text, Val: -600 76 0, nA, nP, 
+"Medio 1"
+TP:  -12.7659574468085,  -1.61702127659574, TS:  2.53191489361702,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+194: Text, Val: -602 116 0, nA, nP, 
+"Medio 2"
+TP:  -12.8085106382979,  -2.46808510638298, TS:  2.53191489361702,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+195: Text, Val: -8 79 0, nA, nP, 
+"Medio 1"
+TP:  -0.170212765957447,  -1.68085106382979, TS:  2.53191489361702,  0.553191489361702
+p: 0, Arial, S: 14, C: 40, Fa: 0, p: 7, System, S: 9, C: 40, Fa: 1
+
+196: Text, Val: -7 114 0, nA, nP, 
+"Medio 2"
+TP:  -0.148936170212766,  -2.42553191489362, TS:  2.53191489361702,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+

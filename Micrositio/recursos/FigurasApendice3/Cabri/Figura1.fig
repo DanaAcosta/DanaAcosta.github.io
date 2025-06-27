@@ -1,0 +1,245 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Window center x: 6.17cm y: 0.00cm Window size x: 39.77cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -17.7234042553191 -0.0638297872340425
+
+4: Line, Const: 3, Val: 1 0
+color:B, 
+
+5: Pt/, Const: 4, Val: 5.59574468085106 -0.0638297872340425
+color:B, 1x1, sticky, 
+"A"
+TP:  5.74468085106383,  -0.0851063829787234, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+6: Cir, Const: 5, Val: 3.01830935498971
+color:B, invisible, 
+
+7: Num, Val: 865 -440 1.2, A, nP, 
+NbD:2, nFD, WU, 
+1.2
+TP:  18.4042553191489,  9.36170212765957, TS:  0.595744680851064,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+8: Text, inc.elmts: 7, Val: 916 -203 0, nA, nP, 
+"n1: "#"
+TP:  19.4893617021277,  4.31914893617021, TS:  2.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+9: Num, Val: 733 -361 1.8, A, nP, 
+NbD:2, nFD, WU, 
+1.8
+TP:  15.5957446808511,  7.68085106382979, TS:  0.595744680851064,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+10: Text, inc.elmts: 9, Val: 917 -173 0, nA, nP, 
+"n2: "#"
+TP:  19.5106382978723,  3.68085106382979, TS:  2.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+11: Pt/, Const: 4, Val: -5.95744680851064 -0.0638297872340425
+color:B, thick, CIRCLE, 
+"P"
+TP:  -6.31914893617021,  0.617021276595745, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Pt/, Const: 6, Val: 3.26264687005476 1.85107124615538
+color:B, thick, CIRCLE, 
+"C"
+TP:  3.04255319148936,  2.63829787234043, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+13: Line, Const: 5,  12, 
+color:lig, invisible, 
+
+14: Seg, Const: 11,  12, 
+color:B, 
+
+15: Sym, Const: 5,  12, 
+invisible, 
+
+16: AngVal, Const: 11,  12,  15, Val: 0 0 0.892045, A, P, 
+NbD:129, FD, deg, 
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+17: Text, Const: 11,  12,  15, inc.elmts: 16, Val: 95 -101 0, nA, nP, 
+invisible, 
+""#"
+TP:  2.02127659574468,  2.14893617021277, TS:  1.12765957446809,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+18: Formula, Const: 16,  7,  9, Val: 692 -293 0.54557, A, P, 
+NbD:2, nFD, deg, 
+arcsin(sin(a) * b / c)
+TP:  14.7234042553191,  6.23404255319149, TS:  1.36170212765957,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+19: Text, inc.elmts: 18, Val: 819 -368 0, nA, nP, 
+invisible, 
+"r: "#"
+TP:  17.4255319148936,  7.82978723404255, TS:  1.76595744680851,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+20: Rot, Const: 5,  12,  18, 
+invisible, 
+
+21: Ray, Const: 12,  20, 
+color:lig, invisible, 
+
+23: Int, Const: 4,  21, int ind:0, 
+color:B, 1x1, 
+"Q"
+TP:  16.468085106383,  0.659574468085106, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+24: Ray, Const: 5,  12, 
+color:B, 
+
+25: Seg, Const: 12,  23, 
+color:B, 
+
+26: Angle, Const: 11,  12,  15, Val: 1 1.8
+"i"
+TP:  2.27659574468085,  2.4468085106383, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+27: Angle, Const: 5,  12,  23, Val: 1 2.1
+"r"
+TP:  4.19148936170213,  1.65957446808511, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+29: Int, Const: 4,  6, int ind:0, 
+color:B, 1x1, 
+"B"
+TP:  2.02127659574468,  -0.127659574468085, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+30: Angle, Const: 5,  11,  12, Val: 1 3.3
+"p"
+TP:  -2.14893617021277,  0.659574468085106, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+31: Angle, Const: 12,  23,  5, Val: 1 2.9
+"q"
+TP:  12.7872340425532,  0.531914893617021, TS:  1.70212765957447,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+32: Perp, Const: 11,  4, 
+color:B, invisible, 
+
+33: Perp, Const: 29,  4, 
+color:B, invisible, 
+
+34: Perp, Const: 5,  4, 
+color:B, invisible, 
+
+35: Perp, Const: 23,  4, 
+color:B, invisible, 
+
+36: Pt/, Const: 32, Val: -5.95744680851064 -3.65957446808511
+invisible, 
+
+37: Perp, Const: 36,  32, 
+color:B, invisible, 
+
+39: Int, Const: 33,  37, int ind:0, 
+color:B, thicker, invisible, 
+
+41: Int, Const: 35,  37, int ind:0, 
+invisible, 
+
+42: Pt/, Const: 32, Val: -5.95744680851064 -4.42553191489362
+invisible, 
+
+43: Perp, Const: 42,  32, 
+color:B, invisible, 
+
+45: Int, Const: 34,  43, int ind:0, 
+color:B, thicker, invisible, 
+
+47: Int, Const: 35,  43, int ind:0, 
+invisible, 
+
+48: Seg, Const: 36,  39, 
+color:B, 
+"do"
+TP:  -2.36170212765957,  -2.97872340425532, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+49: Seg, Const: 39,  41, 
+color:B, 
+"di"
+TP:  10.8085106382979,  -2.93617021276596, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+50: Seg, Const: 42,  45, 
+color:B, 
+"go"
+TP:  -0.553191489361702,  -3.78723404255319, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+51: Seg, Const: 45,  47, 
+color:B, 
+"gi"
+TP:  11.3829787234043,  -3.78723404255319, TS:  0.638297872340426,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+52: Seg, Const: 11,  42, 
+color:B, DS:5 8, 
+
+53: Seg, Const: 29,  39, 
+color:B, DS:5 8, 
+
+54: Seg, Const: 5,  45, 
+color:B, DS:5 8, 
+
+55: Seg, Const: 23,  47, 
+color:B, DS:5 8, 
+
+56: Vec, Const: 36,  39, 
+color:B, 
+
+57: Vec, Const: 39,  36, 
+color:B, 
+
+58: Vec, Const: 39,  41, 
+color:B, 
+
+59: Vec, Const: 41,  39, 
+color:B, 
+
+60: Vec, Const: 42,  45, 
+color:B, 
+
+61: Vec, Const: 45,  42, 
+color:B, 
+
+62: Vec, Const: 45,  47, 
+color:B, 
+
+63: Vec, Const: 47,  45, 
+color:B, 
+
+64: Seg, Const: 5,  12, 
+color:B, 
+"r"
+TP:  4.17021276595745,  1.08510638297872, TS:  0.191489361702128,  0.553191489361702
+p: 0, Arial, S: 14, C: 40, Fa: 0, p: 1, System, S: 9, C: 40, Fa: 1
+
+67: Int, Const: 34,  6, int ind:0, 
+invisible, 
+
+68: Int, Const: 34,  6, int ind:0x10000, 
+invisible, 
+
+69: Arc, Const: 68,  29,  67, 
+color:B, thicker, 
+

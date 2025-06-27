@@ -1,0 +1,328 @@
+Figure Cabri II Plus vers. MS-Windows 1.2.5
+
+Used macro
+
+Degradacion Piero, no name
+Help:
+"(i) Puntos de la linea de base; (ii) Convergencia de ortogonales; (iii) Punto de distancia (convergencia de diagonales); (iv) Punto problema P"
+Mth: 0
+CN:5, ON:12, FN:1, PO:11
+CT:
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+Const:
+Line, Mth:1, 0, CN:2, VN:4, Const: 1 2
+Perp, Mth:0, 0, CN:2, VN:4, Const: 5 6
+Int, Mth:0, 0, CN:2, VN:1, int ind:0, Const: 7 6
+Cir, Mth:1, 0, CN:2, VN:2, Const: 8 5
+Sym, Mth:0, 0, CN:2, VN:1, Const: 4 3
+Vec, Mth:0, 0, CN:2, VN:2, Const: 3 8
+Tran, Mth:0, 0, CN:2, VN:1, Const: 10 11
+Ray, Mth:1, 0, CN:2, VN:3, Const: 8 12
+Int, Mth:0, 0, CN:2, VN:1, int ind:0x10000, Const: 13 9
+Line, Mth:1, 0, CN:2, VN:4, Const: 8 3
+Line, Mth:1, 0, CN:2, VN:4, Const: 14 4
+Int, Mth:0, 1, CN:2, VN:1, int ind:0, Const: 16 15, default settings, 
+
+Elevación Piero, no name
+Help:
+"(i) Puntos de línea de base (B-C); (ii) Convergencia central (A); (iii) Convergencia de diagonales (O); (iv) Punto a elevar (P); (v) Extremos de la magnitud a elevar (R, S)"
+Mth: 0
+CN:7, ON:22, FN:1, PO:21
+CT:
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+point, CS 0, default settings, 
+Const:
+Line, Mth:1, 0, CN:2, VN:4, Const: 1 2
+Par, Mth:0, 0, CN:2, VN:4, Const: 3 8
+Sym, Mth:0, 0, CN:2, VN:1, Const: 4 3
+Perp, Mth:0, 0, CN:2, VN:4, Const: 5 8
+Int, Mth:0, 0, CN:2, VN:1, int ind:0, Const: 11 8
+Vec, Mth:0, 0, CN:2, VN:2, Const: 3 12
+Tran, Mth:0, 0, CN:2, VN:1, Const: 10 13
+Ray, Mth:1, 0, CN:2, VN:3, Const: 12 14
+Cir, Mth:1, 0, CN:2, VN:2, Const: 12 5
+Int, Mth:0, 0, CN:2, VN:1, int ind:0x10000, Const: 15 16
+Line, Mth:1, 0, CN:2, VN:4, Const: 17 4
+Line, Mth:1, 0, CN:2, VN:4, Const: 12 3
+Int, Mth:0, 0, CN:2, VN:1, int ind:0, Const: 18 19
+Int, Mth:0, 0, CN:2, VN:1, int ind:0, Const: 9 11
+Ray, Mth:1, 0, CN:2, VN:3, Const: 12 21
+Mid, Mth:0, 0, CN:2, VN:1, Const: 7 12
+Sym, Mth:0, 0, CN:2, VN:1, Const: 6 23
+Cir, Mth:1, 0, CN:2, VN:2, Const: 12 24
+Int, Mth:0, 0, CN:2, VN:1, int ind:0x10000, Const: 22 25
+Line, Mth:1, 0, CN:2, VN:4, Const: 26 3
+Perp, Mth:0, 0, CN:2, VN:4, Const: 20 8
+Int, Mth:0, 1, CN:2, VN:1, int ind:0, Const: 28 27, default settings, 
+
+Figure description:
+
+Window center x: 7.11cm y: -2.04cm Window size x: 40.40cm y: 19.11cm
+Resolution: 47 ppc
+
+1: Pt, Val: 0 0
+invisible, 
+
+2: Axes, Const: 1, cart, Val: 1 0 0 1
+invisible, 
+
+3: Pt, Val: -10.6842105263158 -2.97368421052632
+color:B, 1x1, invisible, 
+
+4: Line, Const: 3, Val: 1 0
+color:B, invisible, 
+
+5: Pt, Val: 0.170212765957447 -6.17021276595745
+color:B, 1x1, invisible, 
+
+6: Cir, Const: 5, Val: 2.43270681992439
+color:B, invisible, 
+
+7: Pt/, Const: 6, Val: -2.25939735114096 -6.29292034762909
+color:B, thick, CIRCLE, 
+"P"
+TP:  -2.87234042553191,  -6.04255319148936, TS:  2.63829787234043,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+8: Line, Const: 7,  5, 
+color:B, invisible, 
+
+9: Perp, Const: 5,  8, 
+color:B, invisible, 
+
+11: Int, Const: 9,  6, int ind:0, 
+color:B, 1x1, 
+"Q"
+TP:  0.106382978723404,  -7.82978723404255, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+12: Int, Const: 9,  6, int ind:0x10000, 
+color:B, 1x1, 
+"S"
+TP:  -0.0851063829787234,  -3.91489361702128, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+14: Int, Const: 8,  6, int ind:0x10000, 
+color:B, 1x1, 
+"R"
+TP:  2.93617021276596,  -5.72340425531915, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+15: Seg, Const: 7,  11, 
+color:B, 
+
+16: Seg, Const: 11,  14, 
+color:B, 
+
+17: Seg, Const: 14,  12, 
+color:B, 
+
+18: Seg, Const: 12,  7, 
+color:B, 
+
+19: Pt, Val: 2.4468085106383 4.95744680851064
+color:B, thick, CIRCLE, 
+"A"
+TP:  2.63829787234043,  5.31914893617021, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+20: Par, Const: 19,  4, 
+color:B, invisible, 
+
+21: Pt/, Const: 20, Val: -6.36170212765957 4.95744680851064
+color:B, thick, CIRCLE, 
+"O1"
+TP:  -7.14893617021277,  5.34042553191489, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+22: Pt/, Const: 4, Val: 6.23684210526316 -2.97368421052632
+color:B, 1x1, 
+"C"
+TP:  6.29787234042553,  -3.02127659574468, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+23: Seg, Const: 21,  19, 
+color:B, 
+
+24: Line, Const: 11,  7, 
+color:B, invisible, 
+
+26: Int, Const: 4,  24, int ind:0, 
+color:B, 1x1, 
+"B"
+TP:  -6.40425531914894,  -2.87234042553191, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+27: Seg, Const: 7,  26, 
+color:B, invisible, 
+
+Ma: Degradacion Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 7 i: 0
+42: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"P´"
+TP:  -1.36170212765957,  -0.957446808510638, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+43: Perp, Const: 26,  4, 
+color:B, invisible, 
+
+Ma: Compass, Const: 7 i: 0 11 i: 0 26 i: 0
+46: Ma R, F No1, 
+color:B, invisible, 
+
+48: Int, Const: 43,  46, int ind:0, 
+color:B, 1x1, invisible, 
+
+49: Int, Const: 43,  46, int ind:0x10000, 
+color:B, 1x1, invisible, 
+"E"
+TP:  -6.72340425531915,  0.787234042553192, TS:  2.63829787234043,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+50: Line, Const: 49,  19, 
+color:B, invisible, 
+
+51: Line, Const: 26,  19, 
+color:B, invisible, 
+
+52: Par, Const: 42,  4, 
+color:B, invisible, 
+
+54: Int, Const: 51,  52, int ind:0, 
+color:B, 1x1, invisible, 
+"M"
+TP:  -3.70212765957447,  -0.914893617021277, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+55: Par, Const: 54,  43, 
+color:B, invisible, 
+
+57: Int, Const: 50,  55, int ind:0, 
+color:B, 1x1, invisible, 
+"N"
+TP:  -4.12765957446809,  2.31914893617021, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+58: Par, Const: 57,  52, 
+color:B, invisible, 
+
+59: Par, Const: 42,  55, 
+color:B, invisible, 
+
+Ma: Degradacion Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 12 i: 0
+74: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"S´"
+TP:  0.170212765957447,  -1.72340425531915, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 14 i: 0
+89: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"R´"
+TP:  2.65957446808511,  -0.680851063829787, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+Ma: Degradacion Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 11 i: 0
+104: Ma R, F No1, int ind:0, 
+color:B, 1x1, 
+"Q´"
+TP:  0.829787234042553,  -0.0425531914893617, TS:  0.978723404255319,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+105: Seg, Const: 42,  74, 
+color:B, 
+
+106: Seg, Const: 74,  89, 
+color:B, 
+
+107: Seg, Const: 89,  104, 
+color:B, 
+
+108: Seg, Const: 104,  42, 
+color:B, 
+
+110: Int, Const: 58,  59, int ind:0, 
+color:B, 1x1, 
+"T´"
+TP:  -0.936170212765957,  2.19148936170213, TS:  2.63829787234043,  0.553191489361702
+p: 0, Arial, S: 14 C: 40 Fa: 0
+
+111: Seg, Const: 42,  54, 
+color:B, invisible, 
+
+112: Seg, Const: 54,  57, 
+color:B, invisible, 
+
+113: Seg, Const: 57,  110, 
+color:B, invisible, 
+
+114: Seg, Const: 110,  42, 
+color:B, invisible, 
+
+115: Seg, Const: 19,  26, 
+color:B, invisible, 
+
+116: Seg, Const: 26,  49, 
+color:B, invisible, 
+
+117: Seg, Const: 49,  19, 
+color:B, invisible, 
+
+118: Seg, Const: 26,  22, 
+color:B, 
+
+Ma: Elevación Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 11 i: 0 7 i: 0 12 i: 0
+146: Ma R, F No1, int ind:0, 
+invisible, 
+
+Ma: Elevación Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 14 i: 0 7 i: 0 12 i: 0
+174: Ma R, F No1, int ind:0, 
+invisible, 
+
+Ma: Elevación Piero, Const: 26 i: 0 22 i: 0 19 i: 0 21 i: 0 12 i: 0 11 i: 0 14 i: 0
+202: Ma R, F No1, int ind:0, 
+invisible, 
+
+203: Seg, Const: 110,  146, 
+color:B, 
+
+204: Seg, Const: 146,  174, 
+color:B, 
+
+205: Seg, Const: 174,  202, 
+color:B, 
+
+206: Seg, Const: 202,  74, 
+color:B, 
+
+207: Seg, Const: 89,  174, 
+color:B, 
+
+208: Seg, Const: 202,  110, 
+color:B, 
+
+209: Seg, Const: 104,  146, 
+color:B, 
+
+210: Button, ass.elmts: 27,  116,  49,  115,  54,  111,  113,  112,  57,  117,  114,  110, Val: 691 -134 0, nA, nP, 
+fill color:lGr, pushed, 
+"Degradación de puntos elevados"
+TP:  14.7021276595745,  2.85106382978723, TS:  6.14893617021277,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
+211: Button, ass.elmts: 207,  205,  204,  208,  209,  203,  110,  206, Val: 685 -82 0, nA, nP, 
+fill color:lGr, 
+"Cubo en escorzo"
+TP:  14.5744680851064,  1.74468085106383, TS:  6.36170212765957,  0.48936170212766
+p: 0, Arial, S: 12 C: 40 Fa: 0
+
